@@ -48,7 +48,7 @@ Developed 'Water flow', a smart water level monitoring app that can monitor real
 
 
 <p align="center">
-  <a href="https://github.com/hmmza-tariq/flutter-projects/files/water-flow.apk">
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/water-flow.apk">
     <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
   </a>
 </p>
