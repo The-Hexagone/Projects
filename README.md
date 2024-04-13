@@ -47,7 +47,12 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
 Developed 'Water flow', a smart water level monitoring app that can monitor real-time water level and flow, that is detected by an IoT device. It also keep record of water level of the whole month. Other main functionalities include Geo-fencing, that will send notification to user when he/she is out of range and water level alert when reminder is set to particular level. User can also turn on and off the water valve using the app.
 
 
-## Screenshots:
+<p align="center">
+  <a href="https://github.com/hmmza-tariq/flutter-projects/files/water-flow.apk">
+    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
+  </a>
+</p>
+
 |||
 |--------------|--------------|
 | ![Screenshot 1](images/water-flow/(1).png) | ![Screenshot 2](images/water-flow/(3).png) |
