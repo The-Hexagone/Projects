@@ -7,6 +7,7 @@ Developed 'My NUST' App (Play Store) for university students using Flutter. Adde
 ## Screenshots:
 
 |--------------|--------------|
+|--------------|--------------|
 | ![Screenshot 1](images/my-nust/(1).png) | ![Screenshot 2](images/my-nust/(3).png) |
 | ![Screenshot 3](images/my-nust/(2).png) | ![Screenshot 4](images/my-nust/(6).png) |
 | ![Screenshot 5](images/my-nust/(4).png) | ![Screenshot 6](images/my-nust/(5).png) |
