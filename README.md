@@ -73,6 +73,6 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
 
 |||
 |--------------|--------------|
-| ![Screenshot 1](images/ybs/(1).jpg) | ![Screenshot 2](images/ybs/(3).jpg) |
-| ![Screenshot 3](images/ybs/(2).jpg) | ![Screenshot 4](images/ybs/(6).jpg) |
-| ![Screenshot 5](images/ybs/(4).jpg) | ![Screenshot 6](images/ybs/(5).jpg) |
+| ![Screenshot 1](images/ybs/(1).jpg) | ![Screenshot 2](images/ybs/(2).jpg) |
+| ![Screenshot 3](images/ybs/(3).jpg) | ![Screenshot 4](images/ybs/(4).jpg) |
+| ![Screenshot 5](images/ybs/(5).jpg) | ![Screenshot 6](images/ybs/(6).jpg) |
