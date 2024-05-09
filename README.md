@@ -58,3 +58,21 @@ Developed 'Water flow', a smart water level monitoring app that can monitor real
 | ![Screenshot 1](images/water-flow/(1).png) | ![Screenshot 2](images/water-flow/(3).png) |
 | ![Screenshot 3](images/water-flow/(2).png) | ![Screenshot 4](images/water-flow/(6).png) |
 | ![Screenshot 5](images/water-flow/(4).png) | ![Screenshot 6](images/water-flow/(5).png) |
+
+
+<h2 align='center'>Your Bridge School</h2>
+
+Developed 'Your Bridge School', a learning app for students of YBS. It contains many levels, units and audios which can be added or removed by the admin and can. The app is connected to the firebase database. Admin can also lock a unit. 
+
+
+<p align="center">
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
+    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
+  </a>
+</p>
+
+|||
+|--------------|--------------|
+| ![Screenshot 1](images/ybs/(1).jpg) | ![Screenshot 2](images/ybs/(3).jpg) |
+| ![Screenshot 3](images/ybs/(2).jpg) | ![Screenshot 4](images/ybs/(6).jpg) |
+| ![Screenshot 5](images/ybs/(4).jpg) | ![Screenshot 6](images/ybs/(5).jpg) |
