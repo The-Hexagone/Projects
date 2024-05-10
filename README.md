@@ -39,7 +39,7 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
 |--------------|--------------|
 | ![Screenshot 1](images/green-eats/(1).png) | ![Screenshot 2](images/green-eats/(2).png) |
 | ![Screenshot 3](images/green-eats/(3).png) | ![Screenshot 4](images/green-eats/(4).png) |
-| ![Screenshot 5](images/green-eats/(5).png) | ![Screenshot 6](images/green-eats/(5).png) |
+| ![Screenshot 5](images/green-eats/(5).png) |  |
 
 
 <h2 align='center'>Water flow</h2>
