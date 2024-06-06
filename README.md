@@ -44,7 +44,7 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
 
 <h2 align='center'>Water flow</h2>
 
-Developed 'Water flow', a smart water level monitoring app that can monitor real-time water level and flow, that is detected by an IoT device. It also keep record of water level of the whole month. Other main functionalities include Geo-fencing, that will send notification to user when he/she is out of range and water level alert when reminder is set to particular level. User can also turn on and off the water valve using the app.
+Developed 'Water flow', a smart water level monitoring app that can monitor real-time water level and flow, that is detected by an IoT device. It also keep record of water level of the whole month. Other main functionalities include Background Geo-fencing, that will send notification to user when he/she is out of range and water level alert when reminder is set to particular level. User can also turn on and off the water valve using the app.
 
 
 <p align="center">
@@ -76,3 +76,39 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
 | ![Screenshot 1](images/ybs/(1).jpg) | ![Screenshot 2](images/ybs/(2).jpg) |
 | ![Screenshot 3](images/ybs/(3).jpg) | ![Screenshot 4](images/ybs/(4).jpg) |
 | ![Screenshot 5](images/ybs/(5).jpg) | ![Screenshot 6](images/ybs/(6).jpg) |
+
+
+<h2 align='center'>Mindful Life</h2>
+
+Developed 'Mindful Life', an AI chatbot app that guide its user to live a healthy life. It create a persona based on the performance of the user and display as a growable tree. User can select any of the AI doctor and have chat with him to any health related query. 
+
+
+<!-- <p align="center">
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
+    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
+  </a>
+</p> -->
+
+|||
+|--------------|--------------|
+| ![Screenshot 1](images/mindful-life/(1).png) | ![Screenshot 2](images/mindful-life/(2).png) |
+| ![Screenshot 3](images/mindful-life/(3).png) | ![Screenshot 4](images/mindful-life/(4).png) |
+| ![Screenshot 5](images/mindful-life/(5).png) | ![Screenshot 6](images/mindful-life/(6).png) |
+
+
+<h2 align='center'>Roame</h2>
+
+Developed 'Roame', a full stack tour planning app with advance AI features. It connects with multiple social media platforms and let the user view see the trending places on that social media app. User can book a hotel / restaurant or a whole trip.
+
+
+<!-- <p align="center">
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
+    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
+  </a>
+</p> -->
+
+|||
+|--------------|--------------|
+| ![Screenshot 1](images/roame/(1).png) | ![Screenshot 2](images/roame/(2).png) |
+| ![Screenshot 3](images/roame/(3).png) | ![Screenshot 4](images/roame/(4).png) |
+| ![Screenshot 5](images/roame/(5).png) | ![Screenshot 6](images/roame/(6).png) |
