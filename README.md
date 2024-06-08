@@ -83,12 +83,6 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
 Developed 'Mindful Life', an AI chatbot app that guide its user to live a healthy life. It create a persona based on the performance of the user and display as a growable tree. User can select any of the AI doctor and have chat with him to any health related query. 
 
 
-<!-- <p align="center">
-  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
-    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
-  </a>
-</p> -->
-
 |||
 |--------------|--------------|
 | ![Screenshot 1](images/mindful-life/(1).png) | ![Screenshot 2](images/mindful-life/(2).png) |
@@ -99,13 +93,6 @@ Developed 'Mindful Life', an AI chatbot app that guide its user to live a health
 <h2 align='center'>Roame</h2>
 
 Developed 'Roame', a full stack tour planning app with advance AI features. It connects with multiple social media platforms and let the user view see the trending places on that social media app. User can book a hotel / restaurant or a whole trip.
-
-
-<!-- <p align="center">
-  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
-    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
-  </a>
-</p> -->
 
 |||
 |--------------|--------------|
