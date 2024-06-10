@@ -96,6 +96,6 @@ Developed 'Roame', a full stack tour planning app with advance AI features. It c
 
 |||
 |--------------|--------------|
-| ![Screenshot 1](images/roame/(1).png) | ![Screenshot 2](images/roame/(2).png) |
+| ![Screenshot 1](images/roame/(1).png) | ![Screenshot 2](images/roame/(5).png) |
 | ![Screenshot 3](images/roame/(3).png) | ![Screenshot 4](images/roame/(4).png) |
-| ![Screenshot 5](images/roame/(5).png) | ![Screenshot 6](images/roame/(6).png) |
+| ![Screenshot 5](images/roame/(2).png) | ![Screenshot 6](images/roame/(6).png) |
