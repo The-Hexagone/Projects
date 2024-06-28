@@ -39,7 +39,7 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
 |--------------|--------------|
 | ![Screenshot 1](images/green-eats/(1).png) | ![Screenshot 2](images/green-eats/(2).png) |
 | ![Screenshot 3](images/green-eats/(3).png) | ![Screenshot 4](images/green-eats/(4).png) |
-| ![Screenshot 5](images/green-eats/(5).png) |  |
+| ![Screenshot 5](images/green-eats/(5).png) | ![Screenshot 5](images/green-eats/(6).png) |
 
 
 <h2 align='center'>Water flow</h2>
@@ -99,3 +99,13 @@ Developed 'Roame', a full stack tour planning app with advance AI features. It c
 | ![Screenshot 1](images/roame/(1).png) | ![Screenshot 2](images/roame/(5).png) |
 | ![Screenshot 3](images/roame/(3).png) | ![Screenshot 4](images/roame/(4).png) |
 | ![Screenshot 5](images/roame/(2).png) | ![Screenshot 6](images/roame/(6).png) |
+
+<h2 align='center'>Movilar</h2>
+
+Developed 'Movilar', a full stack movie app with SQLite for data caching to enable offline support. This app also has a MQTT client - publisher setup through which user can transfer message to anyone with the common topic.
+
+|||
+|--------------|--------------|
+| ![Screenshot 1](images/movilar/(1).png) | ![Screenshot 2](images/movilar/(5).png) |
+| ![Screenshot 3](images/movilar/(3).png) | ![Screenshot 4](images/movilar/(4).png) |
+| ![Screenshot 5](images/movilar/(2).png) | ![Screenshot 6](images/movilar/(6).png) |
