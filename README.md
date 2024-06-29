@@ -11,7 +11,8 @@ Developed 'My NUST' App (Play Store) for university students using Flutter. Adde
   </a>
 </p>
 
-![Banner](images\banners\my_nust_banner.png)
+ <img src="images\banners\my_nust_banner.png">
+ 
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/my-nust/(1).png) | ![Screenshot 2](images/my-nust/(2).png) | ![Screenshot 3](images/my-nust/(3).png) | 
@@ -35,8 +36,9 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
   </a>
 </p>
 
-![Banner](images\banners\green_eats_banner.png)
 
+ <img src="images\banners\green_eats_banner.png">
+ 
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/green-eats/(1).png) | ![Screenshot 2](images/green-eats/(2).png) | ![Screenshot 3](images/green-eats/(3).png) | 
@@ -54,7 +56,9 @@ Developed 'Water flow', a smart water level monitoring app that can monitor real
   </a>
 </p>
 
-![Banner](images\banners\water_flow_banner.png)
+ <img src="images\banners\water_flow_banner.png">
+
+
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/water-flow/(1).png) | ![Screenshot 2](images/water-flow/(2).png) | ![Screenshot 3](images/water-flow/(3).png) | 
@@ -72,7 +76,8 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
   </a>
 </p>
 
-![Banner](images\banners\ybs_banner.png)
+ <img src="images\banners\ybs_banner.png">
+
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/ybs/(1).png) | ![Screenshot 2](images/ybs/(2).png) | ![Screenshot 3](images/ybs/(3).png) | 
@@ -83,7 +88,8 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
 Developed 'Mindful Life', an AI chatbot app that guide its user to live a healthy life. It create a persona based on the performance of the user and display as a growable tree. User can select any of the AI doctor and have chat with him to any health related query. 
 
 
-![Banner](images\banners\mindful_banner.png)
+ <img src="images\banners\mindful_banner.png">
+
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/mindful-life/(1).png) | ![Screenshot 2](images/mindful-life/(2).png) | ![Screenshot 3](images/mindful-life/(3).png) | 
@@ -93,7 +99,8 @@ Developed 'Mindful Life', an AI chatbot app that guide its user to live a health
 
 Developed 'Roame', a full stack tour planning app with advance AI features. It connects with multiple social media platforms and let the user view see the trending places on that social media app. User can book a hotel / restaurant or a whole trip.
 
-![Banner](images\banners\roame_banner.png)
+ <img src="images\banners\roame_banner.png">
+
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/roame/(1).png) | ![Screenshot 2](images/roame/(2).png) | ![Screenshot 3](images/roame/(3).png) | 
@@ -103,7 +110,8 @@ Developed 'Roame', a full stack tour planning app with advance AI features. It c
 
 Developed 'Movilar', a full stack movie app with SQLite for data caching to enable offline support. This app also has a MQTT client - publisher setup through which user can transfer message to anyone with the common topic.
 
-![Banner](images\banners\movilar_banner.png)
+ <img src="images\banners\movilar_banner.png">
+
 ||||
 |--------------|--------------|--------------|
 | ![Screenshot 1](images/movilar/(1).png) | ![Screenshot 2](images/movilar/(2).png) | ![Screenshot 3](images/movilar/(3).png) | 
