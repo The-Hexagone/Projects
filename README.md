@@ -139,3 +139,52 @@ Developed 'Ez Build', an online buying and selling app MVP.
 | ![Screenshot 1](images/ez-build/(1).png) | ![Screenshot 2](images/ez-build/(2).png) | ![Screenshot 3](images/ez-build/(3).png) | 
 | ![Screenshot 1](images/ez-build/(4).png) | ![Screenshot 2](images/ez-build/(5).png) | ![Screenshot 3](images/ez-build/(6).png) | 
 
+<hr>
+<h2 align='center'>Battlegrands</h2>
+
+Developed 'Battlegrands', a tournaments app, where users can challenge each other or join large tournaments.
+
+<!-- <p align="center">
+  <a href="https://github.com/Hmmza-tariq/ez-build">
+    <img src="https://img.shields.io/badge/Ez-Build-blue.svg">
+  </a>
+</p> -->
+ <img src="images\banners\Battlegrands.png">
+
+||||
+|--------------|--------------|--------------|
+| ![Screenshot 1](images/battlegrands/1.jpg) | ![Screenshot 2](images/battlegrands/2.jpg) | ![Screenshot 3](images/battlegrands/3.jpg) | 
+| ![Screenshot 1](images/battlegrands/4.jpg) | ![Screenshot 2](images/battlegrands/5.jpg) | ![Screenshot 3](images/battlegrands/6.jpg) | 
+
+
+<hr>
+<h2 align='center'>Dog Alert</h2>
+
+Developed 'Dog Alert', app to track dog's location and digging status along with giving custom shocks to a dog.
+
+<!-- <p align="center">
+  <a href="https://github.com/Hmmza-tariq/ez-build">
+    <img src="https://img.shields.io/badge/Ez-Build-blue.svg">
+  </a>
+</p> -->
+
+||||
+|--------------|--------------|--------------|
+| ![Screenshot 1](images/dog-alert/1.jpg) | ![Screenshot 2](images/dog-alert/2.jpg) | ![Screenshot 3](images/dog-alert/3.jpg) | 
+| ![Screenshot 1](images/dog-alert/4.jpg) | ![Screenshot 2](images/dog-alert/5.jpg) | ![Screenshot 3](images/dog-alert/6.jpg) | 
+
+<hr>
+<h2 align='center'>Sleep</h2>
+
+Developed 'Sleep', an app to play sounds to help people with with insomnia.
+
+<!-- <p align="center">
+  <a href="https://github.com/Hmmza-tariq/ez-build">
+    <img src="https://img.shields.io/badge/Ez-Build-blue.svg">
+  </a>
+</p> -->
+
+||||
+|--------------|--------------|--------------|
+| ![Screenshot 1](images/sleep/1.jpg) | ![Screenshot 2](images/sleep/2.jpg) | ![Screenshot 3](images/sleep/3.jpg) | 
+| ![Screenshot 1](images/sleep/4.jpg) | ![Screenshot 2](images/sleep/5.jpg) | ![Screenshot 3](images/sleep/6.jpg) | 
