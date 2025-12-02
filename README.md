@@ -27,14 +27,14 @@ This repository contains a collection of projects we have built across industrie
 | 3 | [🎓 My NUST – University App](#-my-nust--university-app) | Mobile App |
 | 4 | [💸 WatanPay – International Top-Ups](#-watanpay--international-top-ups) | Mobile App |
 | 5 | [💬 WDYT – Opinion Sharing App](#-wdyt--opinion-sharing-app) | Mobile App |
-| 6 | [🌱 Mindful Life – AI Chatbot App](#-mindful-life--ai-chatbot-app) | Mobile App |
+| 6 | [🌱 Mindful Life – AI Chatbot App](#-mindful-life--ai-chatbot-app) | Mobile App, AI/ML |
 | 7 | [🎬 Movilar – Movie & Messaging App](#-movilar--movie--messaging-app) | Mobile App |
-| 8 | [💧 Water Flow – IoT Water Monitoring](#-water-flow--iot-water-monitoring) | Mobile App |
+| 8 | [💧 Water Flow – IoT Water Monitoring](#-water-flow--iot-water-monitoring) | Mobile App, IoT |
 | 9 | [📚 Your Bridge School – Learning App](#-your-bridge-school--learning-app) | Mobile App |
 | 10 | [🎮 Battlegrands – Tournaments App](#-battlegrands--tournaments-app) | Mobile App |
 | 11 | [🏗 Ez Build – Online Marketplace MVP](#-ez-build--online-marketplace-mvp) | Mobile App |
 | 12 | [🐶 Dog Alert – Smart Pet Tracking](#-dog-alert--smart-pet-tracking) | Mobile App, IoT |
-| 13 | [🌙 Sleep – Sound Therapy App](#-sleep--sound-therapy-app) | Mobile App, IoT |
+| 13 | [🌙 Sleep – Sound Therapy App](#-sleep--sound-therapy-app) | Mobile App |
 
 </div>
 
@@ -291,7 +291,7 @@ This repository contains a collection of projects we have built across industrie
 
 ## 🌱 Mindful Life – AI Chatbot App
 
-`Mobile App`
+`Mobile App` `AI/ML`
 
 <img src="images/-mindful-life--ai-chatbot-app/banner.jpg" alt="🌱 Mindful Life – AI Chatbot App" width="100%">
 
@@ -377,7 +377,7 @@ This repository contains a collection of projects we have built across industrie
 
 ## 💧 Water Flow – IoT Water Monitoring
 
-`Mobile App`
+`Mobile App` `IoT`
 
 <img src="images/-water-flow--iot-water-monitoring/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
 
@@ -597,7 +597,7 @@ This repository contains a collection of projects we have built across industrie
 
 ## 🌙 Sleep – Sound Therapy App
 
-`Mobile App` `IoT`
+`Mobile App`
 
 **Sleep is a relaxation app that plays therapeutic sounds to help users improve sleep quality and manage insomnia.**
 
