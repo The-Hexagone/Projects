@@ -44,7 +44,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-green-eats--grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="64">
+<img src="images/-green-eats--grocery-app/logo_transparent.png" alt="🥗 Green Eats – Grocery App logo" height="64">
 
 ## 🥗 Green Eats – Grocery App
 
