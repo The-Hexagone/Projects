@@ -1,326 +1,637 @@
-## Flutter Projects Portfolio
+<div align="center">
 
-<h2 align='center'>About this Portfolio</h2>
+<img src="images/icon-dark.png" alt="Hexagone" height="120">
 
-<p align="center">
-  This repository showcases a collection of Flutter projects I've developed as a mobile application developer. Each project demonstrates different aspects of my technical expertise, problem-solving abilities, and UI/UX design skills across various domains and industries.
-</p>
+# Hexagone Projects
 
- 
-<h2 align='center'>Table of Contents</h2>
+### About this Repository
 
-<ul>
-  <li><a href="#green-eats">Green Eats - Grocery App</a></li>
-  <li><a href="#roame">Roame - Tour Planning App</a></li>
-  <li><a href="#my-nust">My NUST - University App</a></li>
-  <li><a href="#wdyt">WDYT - Opinion Sharing App</a></li>
-  <li><a href="#mindful-life">Mindful Life - AI Chatbot App</a></li>
-  <li><a href="#movilar">Movilar - Movie App</a></li>
-  <li><a href="#water-flow">Water Flow - Water Level Monitoring App</a></li>
-  <li><a href="#ybs">Your Bridge School - Learning App</a></li>
-  <li><a href="#ez-build">Ez Build - Online Buying and Selling App</a></li>
-  <li><a href="#battlegrands">Battlegrands - Tournaments App</a></li>
-  <li><a href="#dog-alert">Dog Alert - Dog Tracking App</a></li>
-  <li><a href="#sleep">Sleep - Sound Therapy App</a></li>
-</ul>
+This repository contains a collection of projects we have built across industries including e-commerce, fintech, travel, education, healthcare, IoT, and lifestyle.
 
-  
-<h2 align='center' id="green-eats">Green Eats</h2>
-
-Developed 'Green Eats', a full-stack grocery app with admin panel, available on multiple platforms including Play Store, App Store, and Website. Used Flutter for the front-end and Firebase for database, authentication, hosting, notification service, cloud functions and other cloud features.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, Provider State Management</li>
-  <li><strong>Backend:</strong> Firebase Firestore, Firebase Auth, Firebase Functions</li>
-  <li><strong>Features:</strong> Real-time inventory updates, Payment processing, Order tracking, Admin dashboard</li>
-  <li><strong>Platforms:</strong> iOS, Android, Web</li>
-</ul>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.hexagone.green_eats">
-    <img src="https://img.shields.io/badge/Play-Store-green.svg">
-  </a>
-  <a href="https://apps.apple.com/us/app/green-eats-fresh-grocery/id6478523748">
-    <img src="https://img.shields.io/badge/App-Store-blue.svg">
-  </a>
-  <a href="https://greeneatspk.web.app/">
-    <img src="https://img.shields.io/badge/Web-Site-orange.svg">
-  </a>
-</p>
-
-<img src="images\green-eats\banner.jpg">
- 
-||||
-|--------------|--------------|--------------|
-| ![Screenshot 1](images/green-eats/1.jpg) | ![Screenshot 2](images/green-eats/2.jpg) | ![Screenshot 3](images/green-eats/3.jpg) | 
-| ![Screenshot 4](images/green-eats/4.jpg) | ![Screenshot 5](images/green-eats/5.jpg) | ![Screenshot 6](images/green-eats/6.jpg) |
-
-<hr>
-<h2 align='center' id="roame">Roame</h2>
-
-Developed 'Roame', a full stack tour planning app with advanced AI features. It connects with multiple social media platforms and allows users to discover trending places. Users can book hotels, restaurants or entire trip packages through the app.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, BLoC pattern</li>
-  <li><strong>Backend:</strong> Firebase, Cloud Functions, Social Media APIs</li>
-  <li><strong>AI Components:</strong> Recommendation engine, Location-based suggestions</li>
-  <li><strong>Features:</strong> Social media integration, Maps and navigation, Booking management</li>
-</ul>
-
-<img src="images\roame\banner.jpg">
-
-|                                         |                                         |                                         |
-| --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Screenshot 1](<images/roame/1.jpg>) | ![Screenshot 2](<images/roame/2.jpg>) | ![Screenshot 3](<images/roame/3.jpg>) |
-| ![Screenshot 4](<images/roame/4.jpg>) | ![Screenshot 5](<images/roame/5.jpg>) | ![Screenshot 6](<images/roame/6.jpg>) |
-
-<hr>
-<h2 align='center' id="my-nust">My NUST</h2>
 <p>
-Developed 'My NUST' App (Play Store) for university students using Flutter. Added many smooth animations and other features like in-app web-view, notification reminders, PDF downloading capabilities and encrypted secure local database. It includes tools such as GPA calculation, note-taking, LMS access, hostel dues checking, reminders, and more.
+  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, Animation libraries</li>
-  <li><strong>Storage:</strong> SQLite, Secure Shared Preferences</li>
-  <li><strong>APIs:</strong> University systems integration</li>
-  <li><strong>Features:</strong> PDF generation/viewing, Web view integration, Push notifications</li>
-</ul>
+</div>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.hexagone.mynust">
-    <img src="https://img.shields.io/badge/Play-Store-green.svg">
-  </a>  
-  <a href="https://github.com/hmmza-tariq/my-nust">
-    <img src="https://img.shields.io/badge/GitHub-Repo-blue.svg">
-  </a>
-</p>
+---
 
- <img src="images\my-nust\banner.jpg">
- 
-||||
-|--------------|--------------|--------------|
-| ![Screenshot 1](images/my-nust/1.jpg) | ![Screenshot 2](images/my-nust/2.jpg) | ![Screenshot 3](images/my-nust/3.jpg) | 
-| ![Screenshot 4](images/my-nust/4.jpg) | ![Screenshot 5](images/my-nust/5.jpg) | ![Screenshot 6](images/my-nust/6.jpg) |
+<div align="center">
 
-<hr>
-<h2 align='center' id="wdyt">WDYT</h2>
+## 📋 Contents
+
+| # | Project | Categories |
+|:---:|:----------|:------------|
+| 1 | [🥗 Green Eats – Grocery App](#-green-eats--grocery-app) | Mobile App, Website |
+| 2 | [🌍 Roame – Tour Planning App](#-roame--tour-planning-app) | Mobile App |
+| 3 | [🎓 My NUST – University App](#-my-nust--university-app) | Mobile App |
+| 4 | [💸 WatanPay – International Top-Ups](#-watanpay--international-top-ups) | Mobile App |
+| 5 | [💬 WDYT – Opinion Sharing App](#-wdyt--opinion-sharing-app) | Mobile App |
+| 6 | [🌱 Mindful Life – AI Chatbot App](#-mindful-life--ai-chatbot-app) | Mobile App |
+| 7 | [🎬 Movilar – Movie & Messaging App](#-movilar--movie--messaging-app) | Mobile App |
+| 8 | [💧 Water Flow – IoT Water Monitoring](#-water-flow--iot-water-monitoring) | Mobile App |
+| 9 | [📚 Your Bridge School – Learning App](#-your-bridge-school--learning-app) | Mobile App |
+| 10 | [🎮 Battlegrands – Tournaments App](#-battlegrands--tournaments-app) | Mobile App |
+| 11 | [🏗 Ez Build – Online Marketplace MVP](#-ez-build--online-marketplace-mvp) | Mobile App |
+| 12 | [🐶 Dog Alert – Smart Pet Tracking](#-dog-alert--smart-pet-tracking) | Mobile App, IoT |
+| 13 | [🌙 Sleep – Sound Therapy App](#-sleep--sound-therapy-app) | Mobile App, IoT |
+
+</div>
+
+---
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-green-eats--grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="64">
+
+## 🥗 Green Eats – Grocery App
+
+`Mobile App` `Website`
+
+<img src="images/-green-eats--grocery-app/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
+
+**Green Eats is a cross-platform meal delivery ecosystem with apps for Android, iOS, and Web.**
+
+<p>user android/ios app, website, ride app, chef app, admin panel</p>
+
 <p>
-Developed 'WDYT' App (Play Store & App Store). WDYT – The Emoji Battleground for Opinions is a social app made using Flutter and Firebase. It allows users from across the world to connect and share their opinions through a unique emoji-based interaction system.
+  <a href="https://play.google.com/store/apps/details?id=com.hexagone.green_eats"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+  <a href="https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
+  <a href="https://greeneats.pk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, GetX state management</li>
-  <li><strong>Backend:</strong> Firebase Firestore, Firebase Auth, Cloud Functions</li>
-  <li><strong>Features:</strong> Real-time interactions, Social sharing, User profiles, Content moderation</li>
-  <li><strong>Platforms:</strong> iOS, Android</li>
-</ul>
+### Tech Stack
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.hexagone.wdyt">
-    <img src="https://img.shields.io/badge/Play-Store-green.svg">
-  </a>
-    <a href="https://apps.apple.com/us/app/wdyt-emoji-battleground/id6740798273">
-    <img src="https://img.shields.io/badge/App-Store-blue.svg">
-  </a>
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+  <code>vercel</code>
 </p>
 
- <img src="images\wdyt\banner.jpg">
- 
-||||
-|--------------|--------------|--------------|
-| ![Screenshot 1](images/wdyt/1.jpg) | ![Screenshot 2](images/wdyt/2.jpg) | ![Screenshot 3](images/wdyt/3.jpg) | 
-| ![Screenshot 4](images/wdyt/4.jpg) | ![Screenshot 5](images/wdyt/5.jpg) | ![Screenshot 6](images/wdyt/6.jpg) |
+### Features
 
-<hr>
-<h2 align='center' id="mindful-life">Mindful Life</h2>
+- Flutter front-end, Firebase authentication, Firestore, hosting, notifications, cloud functions, admin panel.
+- Digitized grocery operations for local retailers, reduced manual overhead, improved customer retention with real-time updates.
 
-Developed 'Mindful Life', an AI chatbot app that guides users to live healthier lives. It creates a persona based on user performance and displays progress as a growable tree. Users can select from various AI health specialists to chat about health-related queries.
+### Screenshots
 
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, Riverpod</li>
-  <li><strong>AI:</strong> ChatGPT API integration, Custom ML models</li>
-  <li><strong>Backend:</strong> Firebase, Cloud Functions</li>
-  <li><strong>Features:</strong> Health tracking, AI conversations, Personalized recommendations</li>
-</ul>
-
- <img src="images\mindful-life\banner.jpg">
-
-|                                                |                                                |                                                |
-| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![Screenshot 1](<images/mindful-life/1.jpg>) | ![Screenshot 2](<images/mindful-life/2.jpg>) | ![Screenshot 3](<images/mindful-life/3.jpg>) |
-| ![Screenshot 4](<images/mindful-life/4.jpg>) | ![Screenshot 5](<images/mindful-life/5.jpg>) | ![Screenshot 6](<images/mindful-life/6.jpg>) |
-
-<hr>
-<h2 align='center' id="movilar">Movilar</h2>
-
-Developed 'Movilar', a full stack movie app with SQLite for data caching to enable offline support. This app also has a MQTT client-publisher setup through which users can transfer messages to anyone with a common topic.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, MobX</li>
-  <li><strong>Storage:</strong> SQLite, Hive for local caching</li>
-  <li><strong>APIs:</strong> TMDB API, MQTT Protocol</li>
-  <li><strong>Features:</strong> Offline first architecture, Real-time messaging, Movie recommendations</li>
-</ul>
-
- <img src="images\movilar\banner.jpg">
-
-|                                           |                                           |                                           |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Screenshot 1](<images/movilar/1.jpg>) | ![Screenshot 2](<images/movilar/2.jpg>) | ![Screenshot 3](<images/movilar/3.jpg>) |
-| ![Screenshot 4](<images/movilar/4.jpg>) | ![Screenshot 5](<images/movilar/5.jpg>) | ![Screenshot 6](<images/movilar/6.jpg>) |
-
-<hr>
-<h2 align='center' id="water-flow">Water Flow</h2>
-
-Developed 'Water Flow', a smart water level monitoring app that tracks real-time water levels and flow detected by IoT devices. It maintains monthly water level records and features background geo-fencing that sends notifications when users go out of range, as well as water level alerts when set thresholds are reached. Users can also remotely control water valves through the app.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, Provider</li>
-  <li><strong>IoT Integration:</strong> MQTT, Arduino/ESP32 communication</li>
-  <li><strong>Features:</strong> Geo-fencing, Real-time monitoring, Remote valve control, Historical data analysis</li>
-  <li><strong>Backend:</strong> Firebase, Cloud Functions</li>
-</ul>
-
-<p align="center">
-  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/water-flow.apk">
-    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
-  </a>
+<p>
+  <img src="images/-green-eats--grocery-app/1.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/2.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/3.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/4.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/5.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/6.jpg" width="200">
 </p>
 
- <img src="images\water-flow\banner.jpg">
+</div>
 
-|                                              |                                              |                                              |
-| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| ![Screenshot 1](<images/water-flow/1.jpg>) | ![Screenshot 2](<images/water-flow/2.jpg>) | ![Screenshot 3](<images/water-flow/3.jpg>) |
-| ![Screenshot 4](<images/water-flow/4.jpg>) | ![Screenshot 5](<images/water-flow/5.jpg>) | ![Screenshot 6](<images/water-flow/6.jpg>) |
+</div>
 
 <hr>
-<h2 align='center' id="ybs">Your Bridge School</h2>
 
-Developed 'Your Bridge School', a learning app for YBS students. It contains various levels, units, and audio content that can be added or removed by administrators. The app connects to a Firebase database, and admins have the ability to lock specific units.
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
 
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart</li>
-  <li><strong>Backend:</strong> Firebase Realtime Database, Firebase Auth</li>
-  <li><strong>Features:</strong> Audio playback, User progress tracking, Admin controls</li>
-  <li><strong>User Management:</strong> Multi-role system (student/admin)</li>
-</ul>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk">
-    <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
-  </a>
+<img src="images/-roame--tour-planning-app/logo.jpg" alt="🌍 Roame – Tour Planning App logo" height="64">
+
+## 🌍 Roame – Tour Planning App
+
+`Mobile App`
+
+<img src="images/-roame--tour-planning-app/banner.jpg" alt="🌍 Roame – Tour Planning App" width="100%">
+
+**Roame is an AI-powered travel discovery and booking app.**
+
+<p>It connects with social media to highlight trending destinations and allows users to book hotels, restaurants, or complete trips.</p>
+
+### Tech Stack
+
+<p>
+  <code>PostgreSQL</code>
+  <code>Flutter</code>
 </p>
 
- <img src="images\ybs\banner.jpg">
+### Features
 
-|                                       |                                       |                                       |
-| ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Screenshot 1](<images/ybs/1.jpg>) | ![Screenshot 2](<images/ybs/2.jpg>) | ![Screenshot 3](<images/ybs/3.jpg>) |
-| ![Screenshot 4](<images/ybs/4.jpg>) | ![Screenshot 5](<images/ybs/5.jpg>) | ![Screenshot 6](<images/ybs/6.jpg>) |
+- Flutter + Firebase, AI-based recommendations, social media API integration, secure booking system.
+- Simplified trip planning, monetization via hotel partnerships, and improved user engagement through social-driven travel discovery.
 
-<hr>
-<h2 align='center' id="ez-build">Ez Build</h2>
+### Screenshots
 
-Developed 'Ez Build', an online marketplace MVP for buying and selling construction materials and services. The app connects contractors, suppliers, and homeowners in a streamlined platform.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, Bloc pattern</li>
-  <li><strong>Backend:</strong> Firebase, Cloud Firestore</li>
-  <li><strong>Features:</strong> Product listings, In-app messaging, Quote requests, Vendor profiles</li>
-  <li><strong>Authentication:</strong> Phone number verification, Social login</li>
-</ul>
-
-<p align="center">
-  <a href="https://github.com/Hmmza-tariq/ez-build">
-    <img src="https://img.shields.io/badge/GitHub-Repo-blue.svg">
-  </a>
+<p>
+  <img src="images/-roame--tour-planning-app/1.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/2.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/3.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/4.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/5.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/6.jpg" width="200">
 </p>
 
-|                                            |                                            |                                            |
-| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Screenshot 1](<images/ez-build/1.jpg>) | ![Screenshot 2](<images/ez-build/2.jpg>) | ![Screenshot 3](<images/ez-build/3.jpg>) |
-| ![Screenshot 4](<images/ez-build/4.jpg>) | ![Screenshot 5](<images/ez-build/5.jpg>) | ![Screenshot 6](<images/ez-build/6.jpg>) |
+</div>
 
-<hr>
-<h2 align='center' id="battlegrands">Battlegrands</h2>
-
-Developed 'Battlegrands', a competitive gaming tournament app where users can challenge each other or join larger organized tournaments. The platform supports various game types and tournament structures.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart, GetX</li>
-  <li><strong>Backend:</strong> Firebase, Firestore, Real-time Database</li>
-  <li><strong>Features:</strong> Tournament brackets, Live scoring, Player profiles, Leaderboards</li>
-  <li><strong>Integrations:</strong> Payment gateways, Game API connections</li>
-</ul>
-
- <img src="images\battlegrands\banner.jpg">
-
-|                                            |                                            |                                            |
-| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Screenshot 1](images/battlegrands/1.jpg) | ![Screenshot 2](images/battlegrands/2.jpg) | ![Screenshot 3](images/battlegrands/3.jpg) |
-| ![Screenshot 4](images/battlegrands/4.jpg) | ![Screenshot 5](images/battlegrands/5.jpg) | ![Screenshot 6](images/battlegrands/6.jpg) |
-
-<hr>
-<h2 align='center' id="dog-alert">Dog Alert</h2>
-
-Developed 'Dog Alert', an app to track a dog's location and digging status, with functionality to deliver custom training stimuli remotely. This solution helps pet owners monitor and train their dogs effectively.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart</li>
-  <li><strong>Hardware Integration:</strong> Bluetooth LE, IoT device communication</li>
-  <li><strong>Location Services:</strong> GPS tracking, Geofencing</li>
-  <li><strong>Features:</strong> Real-time location tracking, Behavior monitoring, Remote training</li>
-</ul>
-
-|                                         |                                         |                                         |
-| --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Screenshot 1](images/dog-alert/1.jpg) | ![Screenshot 2](images/dog-alert/2.jpg) | ![Screenshot 3](images/dog-alert/3.jpg) |
-| ![Screenshot 4](images/dog-alert/4.jpg) | ![Screenshot 5](images/dog-alert/5.jpg) | ![Screenshot 6](images/dog-alert/6.jpg) |
-
-<hr>
-<h2 align='center' id="sleep">Sleep</h2>
-
-Developed 'Sleep', a sound therapy application designed to help people with insomnia. The app offers a variety of calming sounds and programs to promote better sleep quality.
-
-<h3>Tech Stack</h3>
-<ul>
-  <li><strong>Frontend:</strong> Flutter, Dart</li>
-  <li><strong>Audio Processing:</strong> Native audio libraries, Background playback</li>
-  <li><strong>Features:</strong> Sleep timer, Sound mixing, Preset programs, User profiles</li>
-  <li><strong>Data Analysis:</strong> Sleep quality metrics, Usage patterns</li>
-</ul>
-
-|                                     |                                     |                                     |
-| ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![Screenshot 1](images/sleep/1.jpg) | ![Screenshot 2](images/sleep/2.jpg) | ![Screenshot 3](images/sleep/3.jpg) |
-| ![Screenshot 4](images/sleep/4.jpg) | ![Screenshot 5](images/sleep/5.jpg) | ![Screenshot 6](images/sleep/6.jpg) |
+</div>
 
 <hr>
 
-<h2 align='center'>Technical Skills Demonstrated</h2>
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
 
-<p>Across these projects, I've demonstrated proficiency in:</p>
+<div align="center">
 
-<ul>
-  <li><strong>Languages & Frameworks:</strong> Dart, Flutter, JavaScript, Node.js</li>
-  <li><strong>State Management:</strong> Provider, BLoC, GetX, MobX, Riverpod</li>
-  <li><strong>Backend Technologies:</strong> Firebase (Auth, Firestore, Functions, Storage), RESTful APIs</li>
-  <li><strong>Device Integration:</strong> Camera, GPS, Bluetooth, Push Notifications, Background Services</li>
-  <li><strong>UI/UX Design:</strong> Custom animations, Responsive layouts, Platform-specific design patterns</li>
-  <li><strong>Architecture Patterns:</strong> MVVM, Repository Pattern, Clean Architecture</li>
-  <li><strong>Testing:</strong> Unit testing, Widget testing, Integration testing</li>
-  <li><strong>Deployment:</strong> App Store, Google Play Store, Web hosting</li>
-</ul>
+<img src="images/-my-nust--university-app/logo.jpg" alt="🎓 My NUST – University App logo" height="64">
+
+## 🎓 My NUST – University App
+
+`Mobile App`
+
+<img src="images/-my-nust--university-app/banner.jpg" alt="🎓 My NUST – University App" width="100%">
+
+**My NUST is a student-focused utility app for NUST University.**
+
+<p>It combines academic tools and productivity features into one platform.</p>
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.hexagone.mynust"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- Flutter app with animations, GPA calculator, LMS integration, reminders, secure local storage, in-app browser, PDF downloads.
+- Streamlined academic management, improved student productivity, and reduced manual processes.
+
+### Screenshots
+
+<p>
+  <img src="images/-my-nust--university-app/1.jpg" width="200">
+  <img src="images/-my-nust--university-app/2.jpg" width="200">
+  <img src="images/-my-nust--university-app/3.jpg" width="200">
+  <img src="images/-my-nust--university-app/4.jpg" width="200">
+  <img src="images/-my-nust--university-app/5.jpg" width="200">
+  <img src="images/-my-nust--university-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-watanpay--international-top-ups/logo.jpg" alt="💸 WatanPay – International Top-Ups logo" height="64">
+
+## 💸 WatanPay – International Top-Ups
+
+`Mobile App`
+
+<img src="images/-watanpay--international-top-ups/banner.jpg" alt="💸 WatanPay – International Top-Ups" width="100%">
+
+**WatanPay is a secure mobile top-up app for sending balance to families in Afghanistan.**
+
+<p>It emphasizes trust, transparency, and ease of use.</p>
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.hexagone.watan_pay"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- Flutter + Firebase, secure card saving, encrypted payments, real-time exchange rates.
+- Enabled diaspora communities to support families instantly, increased trust with transparent rates, built recurring user engagement.
+
+### Screenshots
+
+<p>
+  <img src="images/-watanpay--international-top-ups/1.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/2.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/3.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/4.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/5.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-wdyt--opinion-sharing-app/logo.png" alt="💬 WDYT – Opinion Sharing App logo" height="64">
+
+## 💬 WDYT – Opinion Sharing App
+
+`Mobile App`
+
+<img src="images/-wdyt--opinion-sharing-app/banner.jpg" alt="💬 WDYT – Opinion Sharing App" width="100%">
+
+**WDYT (What Do You Think?) is a social opinion-sharing platform that gamifies conversations through emoji battles.**
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.hexagone.wdyt"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+  <a href="https://apps.apple.com/us/app/wdyt-emoji-battleground/id6740798273"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
+</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- Flutter + Firebase, real-time user interactions, Play Store & App Store launch.
+- Built global user engagement through gamification, opened monetization via ads/premium packs, and scaled as a cross-platform social tool.
+
+### Screenshots
+
+<p>
+  <img src="images/-wdyt--opinion-sharing-app/1.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/2.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/3.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/4.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/5.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-mindful-life--ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="64">
+
+## 🌱 Mindful Life – AI Chatbot App
+
+`Mobile App`
+
+<img src="images/-mindful-life--ai-chatbot-app/banner.jpg" alt="🌱 Mindful Life – AI Chatbot App" width="100%">
+
+**Mindful Life is an AI well-being assistant that guides users toward healthier habits. It uses gamification (growable tree persona) and AI doctors for personalized health advice.**
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Node.js</code>
+</p>
+
+### Features
+
+- Flutter + AI chatbot integration, persona-based gamification, health-focused Q&A.
+- Encouraged healthier lifestyles, increased user retention with gamification, potential for integration with digital healthcare.
+
+### Screenshots
+
+<p>
+  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-movilar--movie--messaging-app/logo.jpg" alt="🎬 Movilar – Movie & Messaging App logo" height="64">
+
+## 🎬 Movilar – Movie & Messaging App
+
+`Mobile App`
+
+<img src="images/-movilar--movie--messaging-app/banner.jpg" alt="🎬 Movilar – Movie & Messaging App" width="100%">
+
+**Movilar is a movie discovery and messaging platform. It supports offline browsing and real-time communication between users.**
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>PostgreSQL</code>
+</p>
+
+### Features
+
+- Flutter + SQLite offline caching, MQTT chat integration, movie API connection.
+- Enhanced entertainment experience with offline usability and built-in messaging, paving the way for community-driven engagement.
+
+### Screenshots
+
+<p>
+  <img src="images/-movilar--movie--messaging-app/1.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/2.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/3.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/4.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/5.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="64">
+
+## 💧 Water Flow – IoT Water Monitoring
+
+`Mobile App`
+
+<img src="images/-water-flow--iot-water-monitoring/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
+
+**Water Flow is a smart IoT water-level monitoring app. It tracks usage, provides monthly trends, sends alerts, and allows remote valve control.**
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+  <code>ESP32</code>
+</p>
+
+### Features
+
+- Flutter app with IoT device integration, geo-fencing alerts, notifications, remote valve control.
+- Helped households conserve resources, improved safety through alerts, showcased IoT–Flutter synergy for utilities.
+
+### Screenshots
+
+<p>
+  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-your-bridge-school--learning-app/logo.jpg" alt="📚 Your Bridge School – Learning App logo" height="64">
+
+## 📚 Your Bridge School – Learning App
+
+`Mobile App`
+
+<img src="images/-your-bridge-school--learning-app/banner.jpg" alt="📚 Your Bridge School – Learning App" width="100%">
+
+**Your Bridge School (YBS) is a custom learning app for students. It offers structured lessons, units, and audio-based learning, with admin-controlled content management.**
+
+<p>
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects/blob/main/files/ybs-user.apk"><img src="https://img.shields.io/badge/APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+</p>
+
+### Tech Stack
+
+<p>
+  <code>Firebase</code>
+  <code>Flutter</code>
+</p>
+
+### Features
+
+- Flutter + Firebase, admin controls for locking/unlocking units, audio-enabled learning modules.
+- Improved accessibility for students, empowered admins with flexible content updates, enhanced engagement with multimedia lessons.
+
+### Screenshots
+
+<p>
+  <img src="images/-your-bridge-school--learning-app/1.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/2.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/3.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/4.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/5.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-battlegrands--tournaments-app/logo.png" alt="🎮 Battlegrands – Tournaments App logo" height="64">
+
+## 🎮 Battlegrands – Tournaments App
+
+`Mobile App`
+
+<img src="images/-battlegrands--tournaments-app/banner.jpg" alt="🎮 Battlegrands – Tournaments App" width="100%">
+
+**Battlegrands is a competitive gaming platform where users can join or host tournaments and challenges.**
+
+### Tech Stack
+
+<p>
+  <code>Firebase</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- Flutter app with Firebase backend, leaderboard & challenge system.
+- Fostered community-driven gaming, opened monetization opportunities through tournament fees and sponsorships.
+
+### Screenshots
+
+<p>
+  <img src="images/-battlegrands--tournaments-app/1.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/2.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/3.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/4.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/5.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+## 🏗 Ez Build – Online Marketplace MVP
+
+`Mobile App`
+
+**Ez Build is an MVP for an online buying & selling platform. It enables quick transactions and validates the marketplace model.**
+
+<p>
+  <a href="https://github.com/Hmmza-tariq/ez-build"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+### Tech Stack
+
+<p>
+  <code>Firebase</code>
+  <code>Flutter</code>
+</p>
+
+### Features
+
+- Flutter + Firebase MVP build, lightweight architecture.
+- Helped validate business model, created a foundation for scaling into a full-featured marketplace.
+
+### Screenshots
+
+<p>
+  <img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-dog-alert--smart-pet-tracking/logo.png" alt="🐶 Dog Alert – Smart Pet Tracking logo" height="64">
+
+## 🐶 Dog Alert – Smart Pet Tracking
+
+`Mobile App` `IoT`
+
+**Dog Alert is an IoT-based pet safety app that tracks location, detects digging, and allows custom shock control for dogs.**
+
+### Tech Stack
+
+<p>
+  <code>Firebase</code>
+  <code>Firebase</code>
+  <code>ESP32</code>
+</p>
+
+### Features
+
+- Flutter + IoT tracking, real-time location monitoring, smart alerts.
+- Improved pet safety, provided peace of mind for owners, showcased innovative IoT use in pet care.
+
+### Screenshots
+
+<p>
+  <img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-sleep--sound-therapy-app/logo.png" alt="🌙 Sleep – Sound Therapy App logo" height="64">
+
+## 🌙 Sleep – Sound Therapy App
+
+`Mobile App` `IoT`
+
+**Sleep is a relaxation app that plays therapeutic sounds to help users improve sleep quality and manage insomnia.**
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- Flutter app with curated audio library, smooth playback.
+- Supported mental well-being, improved sleep quality for users, demonstrated potential in digital therapy solutions.
+
+### Screenshots
+
+<p>
+  <img src="images/-sleep--sound-therapy-app/1.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/2.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/3.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/4.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/5.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/6.jpg" width="200">
+</p>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Last updated: December 03, 2025</sub>
+
+</div>
