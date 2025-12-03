@@ -44,7 +44,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-green-eats--grocery-app/logo_transparent.png" alt="🥗 Green Eats – Grocery App logo" height="64">
+<img src="images/-green-eats--grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="36">
 
 ## 🥗 Green Eats – Grocery App
 
@@ -78,12 +78,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-green-eats--grocery-app/1.jpg" width="200">
-  <img src="images/-green-eats--grocery-app/2.jpg" width="200">
-  <img src="images/-green-eats--grocery-app/3.jpg" width="200">
-  <img src="images/-green-eats--grocery-app/4.jpg" width="200">
-  <img src="images/-green-eats--grocery-app/5.jpg" width="200">
-  <img src="images/-green-eats--grocery-app/6.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/1.jpg" width="160">
+  <img src="images/-green-eats--grocery-app/2.jpg" width="160">
+  <img src="images/-green-eats--grocery-app/3.jpg" width="160">
+  <img src="images/-green-eats--grocery-app/4.jpg" width="160">
+  <img src="images/-green-eats--grocery-app/5.jpg" width="160">
+  <img src="images/-green-eats--grocery-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -96,7 +96,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-roame--tour-planning-app/logo.jpg" alt="🌍 Roame – Tour Planning App logo" height="64">
+<img src="images/-roame--tour-planning-app/logo.png" alt="🌍 Roame – Tour Planning App logo" height="36">
 
 ## 🌍 Roame – Tour Planning App
 
@@ -123,12 +123,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-roame--tour-planning-app/1.jpg" width="200">
-  <img src="images/-roame--tour-planning-app/2.jpg" width="200">
-  <img src="images/-roame--tour-planning-app/3.jpg" width="200">
-  <img src="images/-roame--tour-planning-app/4.jpg" width="200">
-  <img src="images/-roame--tour-planning-app/5.jpg" width="200">
-  <img src="images/-roame--tour-planning-app/6.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/1.jpg" width="160">
+  <img src="images/-roame--tour-planning-app/2.jpg" width="160">
+  <img src="images/-roame--tour-planning-app/3.jpg" width="160">
+  <img src="images/-roame--tour-planning-app/4.jpg" width="160">
+  <img src="images/-roame--tour-planning-app/5.jpg" width="160">
+  <img src="images/-roame--tour-planning-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -141,7 +141,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-my-nust--university-app/logo.jpg" alt="🎓 My NUST – University App logo" height="64">
+<img src="images/-my-nust--university-app/logo.png" alt="🎓 My NUST – University App logo" height="36">
 
 ## 🎓 My NUST – University App
 
@@ -172,12 +172,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-my-nust--university-app/1.jpg" width="200">
-  <img src="images/-my-nust--university-app/2.jpg" width="200">
-  <img src="images/-my-nust--university-app/3.jpg" width="200">
-  <img src="images/-my-nust--university-app/4.jpg" width="200">
-  <img src="images/-my-nust--university-app/5.jpg" width="200">
-  <img src="images/-my-nust--university-app/6.jpg" width="200">
+  <img src="images/-my-nust--university-app/1.jpg" width="160">
+  <img src="images/-my-nust--university-app/2.jpg" width="160">
+  <img src="images/-my-nust--university-app/3.jpg" width="160">
+  <img src="images/-my-nust--university-app/4.jpg" width="160">
+  <img src="images/-my-nust--university-app/5.jpg" width="160">
+  <img src="images/-my-nust--university-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -190,7 +190,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-watanpay--international-top-ups/logo.jpg" alt="💸 WatanPay – International Top-Ups logo" height="64">
+<img src="images/-watanpay--international-top-ups/logo.png" alt="💸 WatanPay – International Top-Ups logo" height="36">
 
 ## 💸 WatanPay – International Top-Ups
 
@@ -221,12 +221,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-watanpay--international-top-ups/1.jpg" width="200">
-  <img src="images/-watanpay--international-top-ups/2.jpg" width="200">
-  <img src="images/-watanpay--international-top-ups/3.jpg" width="200">
-  <img src="images/-watanpay--international-top-ups/4.jpg" width="200">
-  <img src="images/-watanpay--international-top-ups/5.jpg" width="200">
-  <img src="images/-watanpay--international-top-ups/6.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/1.jpg" width="160">
+  <img src="images/-watanpay--international-top-ups/2.jpg" width="160">
+  <img src="images/-watanpay--international-top-ups/3.jpg" width="160">
+  <img src="images/-watanpay--international-top-ups/4.jpg" width="160">
+  <img src="images/-watanpay--international-top-ups/5.jpg" width="160">
+  <img src="images/-watanpay--international-top-ups/6.jpg" width="160">
 </p>
 
 </div>
@@ -239,7 +239,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-wdyt--opinion-sharing-app/logo.png" alt="💬 WDYT – Opinion Sharing App logo" height="64">
+<img src="images/-wdyt--opinion-sharing-app/logo.png" alt="💬 WDYT – Opinion Sharing App logo" height="36">
 
 ## 💬 WDYT – Opinion Sharing App
 
@@ -269,12 +269,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-wdyt--opinion-sharing-app/1.jpg" width="200">
-  <img src="images/-wdyt--opinion-sharing-app/2.jpg" width="200">
-  <img src="images/-wdyt--opinion-sharing-app/3.jpg" width="200">
-  <img src="images/-wdyt--opinion-sharing-app/4.jpg" width="200">
-  <img src="images/-wdyt--opinion-sharing-app/5.jpg" width="200">
-  <img src="images/-wdyt--opinion-sharing-app/6.jpg" width="200">
+  <img src="images/-wdyt--opinion-sharing-app/1.jpg" width="160">
+  <img src="images/-wdyt--opinion-sharing-app/2.jpg" width="160">
+  <img src="images/-wdyt--opinion-sharing-app/3.jpg" width="160">
+  <img src="images/-wdyt--opinion-sharing-app/4.jpg" width="160">
+  <img src="images/-wdyt--opinion-sharing-app/5.jpg" width="160">
+  <img src="images/-wdyt--opinion-sharing-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -287,7 +287,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-mindful-life--ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="64">
+<img src="images/-mindful-life--ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="36">
 
 ## 🌱 Mindful Life – AI Chatbot App
 
@@ -312,12 +312,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="160">
+  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="160">
+  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="160">
+  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="160">
+  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="160">
+  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -330,7 +330,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-movilar--movie--messaging-app/logo.jpg" alt="🎬 Movilar – Movie & Messaging App logo" height="64">
+<img src="images/-movilar--movie--messaging-app/logo.png" alt="🎬 Movilar – Movie & Messaging App logo" height="36">
 
 ## 🎬 Movilar – Movie & Messaging App
 
@@ -355,12 +355,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-movilar--movie--messaging-app/1.jpg" width="200">
-  <img src="images/-movilar--movie--messaging-app/2.jpg" width="200">
-  <img src="images/-movilar--movie--messaging-app/3.jpg" width="200">
-  <img src="images/-movilar--movie--messaging-app/4.jpg" width="200">
-  <img src="images/-movilar--movie--messaging-app/5.jpg" width="200">
-  <img src="images/-movilar--movie--messaging-app/6.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/1.jpg" width="160">
+  <img src="images/-movilar--movie--messaging-app/2.jpg" width="160">
+  <img src="images/-movilar--movie--messaging-app/3.jpg" width="160">
+  <img src="images/-movilar--movie--messaging-app/4.jpg" width="160">
+  <img src="images/-movilar--movie--messaging-app/5.jpg" width="160">
+  <img src="images/-movilar--movie--messaging-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -373,7 +373,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="64">
+<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="36">
 
 ## 💧 Water Flow – IoT Water Monitoring
 
@@ -399,12 +399,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="200">
-  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="200">
-  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="200">
-  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="200">
-  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="200">
-  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="160">
 </p>
 
 </div>
@@ -417,7 +417,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-your-bridge-school--learning-app/logo.jpg" alt="📚 Your Bridge School – Learning App logo" height="64">
+<img src="images/-your-bridge-school--learning-app/logo.png" alt="📚 Your Bridge School – Learning App logo" height="36">
 
 ## 📚 Your Bridge School – Learning App
 
@@ -447,12 +447,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-your-bridge-school--learning-app/1.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/2.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/3.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/4.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/5.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/6.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/1.jpg" width="160">
+  <img src="images/-your-bridge-school--learning-app/2.jpg" width="160">
+  <img src="images/-your-bridge-school--learning-app/3.jpg" width="160">
+  <img src="images/-your-bridge-school--learning-app/4.jpg" width="160">
+  <img src="images/-your-bridge-school--learning-app/5.jpg" width="160">
+  <img src="images/-your-bridge-school--learning-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -465,7 +465,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-battlegrands--tournaments-app/logo.png" alt="🎮 Battlegrands – Tournaments App logo" height="64">
+<img src="images/-battlegrands--tournaments-app/logo.png" alt="🎮 Battlegrands – Tournaments App logo" height="36">
 
 ## 🎮 Battlegrands – Tournaments App
 
@@ -490,12 +490,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-battlegrands--tournaments-app/1.jpg" width="200">
-  <img src="images/-battlegrands--tournaments-app/2.jpg" width="200">
-  <img src="images/-battlegrands--tournaments-app/3.jpg" width="200">
-  <img src="images/-battlegrands--tournaments-app/4.jpg" width="200">
-  <img src="images/-battlegrands--tournaments-app/5.jpg" width="200">
-  <img src="images/-battlegrands--tournaments-app/6.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/1.jpg" width="160">
+  <img src="images/-battlegrands--tournaments-app/2.jpg" width="160">
+  <img src="images/-battlegrands--tournaments-app/3.jpg" width="160">
+  <img src="images/-battlegrands--tournaments-app/4.jpg" width="160">
+  <img src="images/-battlegrands--tournaments-app/5.jpg" width="160">
+  <img src="images/-battlegrands--tournaments-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -533,12 +533,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="200">
-  <img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="200">
-  <img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="200">
-  <img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="200">
-  <img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="200">
-  <img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="160">
+  <img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="160">
+  <img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="160">
+  <img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="160">
+  <img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="160">
+  <img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="160">
 </p>
 
 </div>
@@ -551,7 +551,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-dog-alert--smart-pet-tracking/logo.png" alt="🐶 Dog Alert – Smart Pet Tracking logo" height="64">
+<img src="images/-dog-alert--smart-pet-tracking/logo.png" alt="🐶 Dog Alert – Smart Pet Tracking logo" height="36">
 
 ## 🐶 Dog Alert – Smart Pet Tracking
 
@@ -575,12 +575,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="200">
-  <img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="200">
-  <img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="200">
-  <img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="200">
-  <img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="200">
-  <img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="160">
+  <img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="160">
+  <img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="160">
+  <img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="160">
+  <img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="160">
+  <img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="160">
 </p>
 
 </div>
@@ -593,7 +593,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-sleep--sound-therapy-app/logo.png" alt="🌙 Sleep – Sound Therapy App logo" height="64">
+<img src="images/-sleep--sound-therapy-app/logo.png" alt="🌙 Sleep – Sound Therapy App logo" height="36">
 
 ## 🌙 Sleep – Sound Therapy App
 
@@ -616,12 +616,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <p>
-  <img src="images/-sleep--sound-therapy-app/1.jpg" width="200">
-  <img src="images/-sleep--sound-therapy-app/2.jpg" width="200">
-  <img src="images/-sleep--sound-therapy-app/3.jpg" width="200">
-  <img src="images/-sleep--sound-therapy-app/4.jpg" width="200">
-  <img src="images/-sleep--sound-therapy-app/5.jpg" width="200">
-  <img src="images/-sleep--sound-therapy-app/6.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/1.jpg" width="160">
+  <img src="images/-sleep--sound-therapy-app/2.jpg" width="160">
+  <img src="images/-sleep--sound-therapy-app/3.jpg" width="160">
+  <img src="images/-sleep--sound-therapy-app/4.jpg" width="160">
+  <img src="images/-sleep--sound-therapy-app/5.jpg" width="160">
+  <img src="images/-sleep--sound-therapy-app/6.jpg" width="160">
 </p>
 
 </div>
@@ -635,3 +635,5 @@ This repository contains a collection of projects we have built across industrie
 <sub>Last updated: December 03, 2025</sub>
 
 </div>
+
+
