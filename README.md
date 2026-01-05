@@ -23,18 +23,20 @@ This repository contains a collection of projects we have built across industrie
 | # | Project | Categories |
 |:---:|:----------|:------------|
 | 1 | [🥗 Green Eats – Grocery App](#-green-eats--grocery-app) | Mobile App, Website |
-| 2 | [🌍 Roame – Tour Planning App](#-roame--tour-planning-app) | Mobile App |
-| 3 | [🎓 My NUST – University App](#-my-nust--university-app) | Mobile App |
-| 4 | [💸 WatanPay – International Top-Ups](#-watanpay--international-top-ups) | Mobile App |
-| 5 | [💬 WDYT – Opinion Sharing App](#-wdyt--opinion-sharing-app) | Mobile App |
-| 6 | [🌱 Mindful Life – AI Chatbot App](#-mindful-life--ai-chatbot-app) | Mobile App, AI/ML |
-| 7 | [🎬 Movilar – Movie & Messaging App](#-movilar--movie--messaging-app) | Mobile App |
-| 8 | [💧 Water Flow – IoT Water Monitoring](#-water-flow--iot-water-monitoring) | Mobile App, IoT |
-| 9 | [📚 Your Bridge School – Learning App](#-your-bridge-school--learning-app) | Mobile App |
-| 10 | [🎮 Battlegrands – Tournaments App](#-battlegrands--tournaments-app) | Mobile App |
-| 11 | [🏗 Ez Build – Online Marketplace MVP](#-ez-build--online-marketplace-mvp) | Mobile App |
-| 12 | [🐶 Dog Alert – Smart Pet Tracking](#-dog-alert--smart-pet-tracking) | Mobile App, IoT |
-| 13 | [🌙 Sleep – Sound Therapy App](#-sleep--sound-therapy-app) | Mobile App |
+| 2 | [🔍 Celiach-IA – Gluten Detection App](#-celiach-ia--gluten-detection-app) | Mobile App, AI/ML |
+| 3 | [�️ Room-OS – Meeting Room Controller](#-room-os--meeting-room-controller) | Mobile App, IoT |
+| 4 | [💧 Water Flow – IoT Water Monitoring](#-water-flow--iot-water-monitoring) | Mobile App, IoT |
+| 5 | [🌍 Roame – Tour Planning App](#-roame--tour-planning-app) | Mobile App |
+| 6 | [🎓 My NUST – University App](#-my-nust--university-app) | Mobile App |
+| 7 | [💸 WatanPay – International Top-Ups](#-watanpay--international-top-ups) | Mobile App |
+| 8 | [💬 WDYT – Opinion Sharing App](#-wdyt--opinion-sharing-app) | Mobile App |
+| 9 | [🌱 Mindful Life – AI Chatbot App](#-mindful-life--ai-chatbot-app) | Mobile App, AI/ML |
+| 10 | [🎬 Movilar – Movie & Messaging App](#-movilar--movie--messaging-app) | Mobile App |
+| 11 | [📚 Your Bridge School – Learning App](#-your-bridge-school--learning-app) | Mobile App |
+| 12 | [🎮 Battlegrands – Tournaments App](#-battlegrands--tournaments-app) | Mobile App |
+| 13 | [🏗 Ez Build – Online Marketplace MVP](#-ez-build--online-marketplace-mvp) | Mobile App |
+| 14 | [🐶 Dog Alert – Smart Pet Tracking](#-dog-alert--smart-pet-tracking) | Mobile App, IoT |
+| 15 | [🌙 Sleep – Sound Therapy App](#-sleep--sound-therapy-app) | Mobile App |
 
 </div>
 
@@ -52,9 +54,9 @@ This repository contains a collection of projects we have built across industrie
 
 <img src="images/-green-eats--grocery-app/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
 
-**Green Eats is a cross-platform meal delivery ecosystem with apps for Android, iOS, and Web.**
+**GreenEats is a comprehensive homemade food delivery application built with Flutter, providing users with healthy meal planning, subscription management, and seamless order tracking.**
 
-<p>user android/ios app, website, ride app, chef app, admin panel</p>
+<p>The app connects users with homemade food providers offering customizable meal plans tailored to individual preferences and dietary needs, including hostel and office subscription programs.</p>
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.hexagone.green_eats"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
@@ -65,15 +67,25 @@ This repository contains a collection of projects we have built across industrie
 ### Tech Stack
 
 <p>
-  <code>Flutter</code>
-  <code>Firebase</code>
-  <code>vercel</code>
+  <code>Flutter 3.2.3+</code>
+  <code>GetX</code>
+  <code>Firebase Suite</code>
+  <code>Cloud Firestore</code>
+  <code>Firebase Realtime Database</code>
+  <code>PayPro</code>
+  <code>Flutter Map</code>
 </p>
 
 ### Features
 
-- Flutter front-end, Firebase authentication, Firestore, hosting, notifications, cloud functions, admin panel.
-- Digitized grocery operations for local retailers, reduced manual overhead, improved customer retention with real-time updates.
+- **Authentication & User Management**: Email/Password, Google Sign-In, Apple Sign-In with complete profile management, password recovery, and location-based services with geolocation.
+- **Advanced Meal Planning System**: Custom Plans (build your own), Planned Plans (pre-designed menus), Fixed Plans (5/7-day weekly menus), Subscription Plans for hostels/offices, multi-meal timeslot support (Breakfast/Lunch/Dinner), combined meal packages with discounts, and calendar-based scheduling.
+- **Order Management**: Real-time tracking, order history with status updates, multiple payment options (PayPro integration, wallet payments, direct payment verification), order modifications (time slot changes, cancellations, refund processing).
+- **Digital Wallet & Payments**: Built-in wallet system, balance top-up via online payment, transaction history tracking, voucher/discount code support, automatic refund processing, and secure payment gateway integration.
+- **Organization Support**: Hostel meal subscriptions, office meal programs, organization-specific pricing, and bulk order management capabilities.
+- **Firebase Integration**: Complete Firebase suite including Authentication, Cloud Firestore (users, orders, transactions), Realtime Database (plans, timeslots, organizations), Cloud Messaging (FCM), Analytics, Crashlytics error tracking, and Storage.
+- **UI/UX Features**: Dark/Light theme support, responsive design for mobile & web, offline support with connectivity checking, app version update notifications, maintenance mode with feature-specific controls, quick actions, in-app reviews, video content, and social sharing.
+- **State Management**: GetX for reactive state management, dependency injection, and navigation with controllers for orders, plans, users, and transactions.
 
 ### Screenshots
 
@@ -84,6 +96,171 @@ This repository contains a collection of projects we have built across industrie
   <img src="images/-green-eats--grocery-app/4.jpg" width="160">
   <img src="images/-green-eats--grocery-app/5.jpg" width="160">
   <img src="images/-green-eats--grocery-app/6.jpg" width="160">
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-celiach-ia--gluten-detection-app/logo.png" alt="🔍 Celiach-IA – Gluten Detection App logo" height="36">
+
+## 🔍 Celiach-IA – Gluten Detection App
+
+`Mobile App` `AI/ML`
+
+<img src="images/-celiach-ia--gluten-detection-app/banner.jpg" alt="🔍 Celiach-IA – Gluten Detection App" width="100%">
+
+**Celiach-IA is an intelligent mobile app that helps people with celiac disease identify gluten-containing products through barcode scanning and AI-powered ingredient analysis.**
+
+<p>The app combines real-time barcode scanning, OCR-based text recognition, and a comprehensive database of 3+ million products to provide instant, reliable information about food safety.</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>GetX</code>
+  <code>SQLCipher</code>
+  <code>Google ML Kit</code>
+  <code>Stripe</code>
+</p>
+
+### Features
+
+- **Barcode Scanner**: Real-time barcode detection with support for multiple formats, offline scanning with encrypted local database, and background processing for pending scans.
+- **Ingredient Analysis**: OCR-powered gluten detection in ingredient labels with AI confidence scoring and automatic image blur detection for quality assurance.
+- **3M+ Product Database**: Comprehensive SQLCipher-encrypted local database with delta synchronization, stores product information with gluten indicators and supports offline access.
+- **User Management**: JWT token-based authentication with automatic refresh, trial mode with 100 free scans, and Stripe-integrated subscription management.
+- **Online/Offline Support**: Seamless offline mode with automatic online search when internet is available, background sync for pending operations, and connectivity status monitoring.
+- **Security Features**: SQLCipher database encryption, secure JWT token storage with flutter_secure_storage, API key protection, and device ID binding.
+- **Advanced Camera Management**: Multiple camera support, flash/torch control, auto-focus with manual override, and sophisticated lifecycle management for iOS/Android.
+
+### Screenshots
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
+  <img src="images/-celiach-ia--gluten-detection-app/1.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/2.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/3.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/4.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/5.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/6.jpeg" width="160">
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-room-os--meeting-room-controller/logo.png" alt="🎛️ Room-OS – Meeting Room Controller logo" height="36">
+
+## 🎛️ Room-OS – Meeting Room Controller
+
+`Mobile App` `IoT`
+
+<img src="images/-room-os--meeting-room-controller/banner.jpg" alt="🎛️ Room-OS – Meeting Room Controller" width="100%">
+
+**Room-OS is a professional-grade Flutter application for controlling Cisco RoomOS devices across multiple meeting rooms, managing calls, screen sharing, and integrated audio/visual systems.**
+
+<p>Designed for iPad with support for WebEx, Zoom, Microsoft Teams, and QSC-integrated room control systems across multiple floors with real-time device monitoring and secure SSH connectivity.</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter</code>
+  <code>GetX</code>
+  <code>Cisco RoomOS xAPI</code>
+  <code>SSH</code>
+  <code>QSC</code>
+  <code>Firebase</code>
+</p>
+
+### Features
+
+- **Multi-Variant Room Support**: Manages multiple configured meeting rooms across multiple floors with per-room configuration and secure credential storage.
+- **Core Device Control**: Complete volume management, microphone control, camera pan/tilt/zoom, Do Not Disturb mode, and standby management via Cisco RoomOS xAPI integration.
+- **Meeting Platform Integration**: Direct integration with WebEx, Zoom, and Microsoft Teams with calendar integration and support for generic meeting URLs.
+- **Call Management**: Full incoming/outgoing call handling with visual notifications, call history tracking, phonebook integration, contact sync, and real-time call status monitoring.
+- **Advanced Features**: Screen sharing interface, QSC system integration for audio/visual controls, real-time device status monitoring, secure SSH connectivity for advanced commands, and automatic session persistence.
+- **Connection Architecture**: Persistent HTTP client with connection pooling, xAPI over HTTPS, SSH2 for device command execution, and automatic reconnection logic with StreamControllers for real-time updates.
+- **Standby Mode System**: Real-time monitoring of standby states (Standby, EnteringStandby, Halfwake, Off), black screen overlay with wake-up prompt, and tap-to-wake functionality.
+- **Secure Configuration**: Flutter Secure Storage with platform-native encryption, variant-based credential management, and environment-specific device/QSC endpoint configuration.
+
+### Screenshots
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
+  <img src="images/-room-os--meeting-room-controller/1.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/2.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/3.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/4.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/5.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/6.png" width="160">
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
+<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="36">
+
+## 💧 Water Flow – IoT Water Monitoring
+
+`Mobile App` `IoT`
+
+<img src="images/-water-flow--iot-water-monitoring/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
+
+**Water Flow Monitor is a comprehensive IoT-based water flow monitoring and leak detection system built with Flutter, Firebase, and ESP32, providing real-time monitoring, automated leak detection, and remote valve control.**
+
+<p>The system combines hardware sensors with a mobile application to monitor water usage, detect leaks, and provide automated control over water supply using ESP32 microcontrollers with flow sensors and LoRa communication.</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter 3.0+</code>
+  <code>GetX</code>
+  <code>Firebase RTDB</code>
+  <code>Firebase Auth</code>
+  <code>FCM</code>
+  <code>ESP32</code>
+  <code>LoRa 433MHz</code>
+  <code>YF-S201 Flow Sensor</code>
+</p>
+
+### Features
+
+- **Real-Time Monitoring**: Live flow rates (L/s, L/h, L/day), total usage tracking with circular indicators and flow rate cards, historical data with hourly/daily/weekly/monthly analytics, and visual dashboard with interactive charts.
+- **Intelligent Alert System**: Automatic leak detection via LoRa sensor network, multiple alert types (leak detection, high flow, valve status, system errors), priority levels with visual differentiation, complete alert history with acknowledgment system, and timestamp tracking.
+- **Remote Valve Control**: Automated valve closure on leak detection, manual override via mobile app, real-time valve position monitoring, command queue with reliable delivery via Firebase RTDB, and status synchronization.
+- **LoRa Integration**: Long-range 433MHz communication for extended coverage, multiple leak detection points with sensor network, RSSI signal strength monitoring, complete LoRa message history, and ESP32-based gateway.
+- **Geofencing & Location**: Location-based enhanced alerts when away from home, configurable radius for geofence boundaries, background location monitoring with 30-second checks, real-time distance calculation from home display.
+- **Background Services**: 24/7 persistent monitoring service, periodic alert and geofence checks every 30 seconds, Android 14+ compatible foreground service with notification, auto-start service on app launch, and wake lock for reliability.
+- **Data Analytics**: Interactive usage graphs with FL Chart, detailed hour-by-hour breakdown, week-over-week comparison trends, monthly consumption reports, and historical data analysis with automatic rollover.
+- **Hardware Setup**: ESP32 with YF-S201 flow sensor (450 pulses/liter), LoRa SX1278 module for communication, 16-pin relay for valve control, WiFi connectivity for Firebase, NTP time synchronization, and calibrated measurement with ±2% accuracy.
+
+### Screenshots
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
+  <img src="images/-water-flow--iot-water-monitoring/1.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/2.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/3.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/4.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/5.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/6.jpeg" width="160">
 </div>
 
 </div>
@@ -361,50 +538,6 @@ This repository contains a collection of projects we have built across industrie
   <img src="images/-movilar--movie--messaging-app/4.jpg" width="160">
   <img src="images/-movilar--movie--messaging-app/5.jpg" width="160">
   <img src="images/-movilar--movie--messaging-app/6.jpg" width="160">
-</div>
-
-</div>
-
-</div>
-
-<hr>
-
-<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
-
-<div align="center">
-
-<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="36">
-
-## 💧 Water Flow – IoT Water Monitoring
-
-`Mobile App` `IoT`
-
-<img src="images/-water-flow--iot-water-monitoring/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
-
-**Water Flow is a smart IoT water-level monitoring app. It tracks usage, provides monthly trends, sends alerts, and allows remote valve control.**
-
-### Tech Stack
-
-<p>
-  <code>Flutter</code>
-  <code>Firebase</code>
-  <code>ESP32</code>
-</p>
-
-### Features
-
-- Flutter app with IoT device integration, geo-fencing alerts, notifications, remote valve control.
-- Helped households conserve resources, improved safety through alerts, showcased IoT–Flutter synergy for utilities.
-
-### Screenshots
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="160">
 </div>
 
 </div>
