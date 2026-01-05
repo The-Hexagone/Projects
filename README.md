@@ -143,12 +143,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-celiach-ia--gluten-detection-app/1.jpeg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/2.jpeg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/3.jpeg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/4.jpeg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/5.jpeg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/6.jpeg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/1.jpg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/2.jpg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/3.jpg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/4.jpg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/5.jpg" width="160">
+  <img src="images/-celiach-ia--gluten-detection-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -198,12 +198,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-room-os--meeting-room-controller/1.png" width="160">
-  <img src="images/-room-os--meeting-room-controller/2.png" width="160">
-  <img src="images/-room-os--meeting-room-controller/3.png" width="160">
-  <img src="images/-room-os--meeting-room-controller/4.png" width="160">
-  <img src="images/-room-os--meeting-room-controller/5.png" width="160">
-  <img src="images/-room-os--meeting-room-controller/6.png" width="160">
+  <img src="images/-room-os--meeting-room-controller/1.jpg" width="160">
+  <img src="images/-room-os--meeting-room-controller/2.jpg" width="160">
+  <img src="images/-room-os--meeting-room-controller/3.jpg" width="160">
+  <img src="images/-room-os--meeting-room-controller/4.jpg" width="160">
+  <img src="images/-room-os--meeting-room-controller/5.jpg" width="160">
+  <img src="images/-room-os--meeting-room-controller/6.jpg" width="160">
 </div>
 
 </div>
@@ -255,12 +255,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-water-flow--iot-water-monitoring/1.jpeg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/2.jpeg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/3.jpeg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/4.jpeg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/5.jpeg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/6.jpeg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="160">
+  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="160">
 </div>
 
 </div>
