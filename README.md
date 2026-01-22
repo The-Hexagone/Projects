@@ -1,17 +1,8 @@
 <div align="center">
 
-<img src="images/icon-dark.png" alt="Hexagone" height="120">
-
-# Hexagone Projects
-
 ### About this Repository
 
 This repository contains a collection of projects we have built across industries including e-commerce, fintech, travel, education, healthcare, IoT, and lifestyle.
-
-<p>
-  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
-</p>
-
 </div>
 
 ---
