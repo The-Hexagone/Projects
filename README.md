@@ -526,7 +526,7 @@ This repository contains a collection of projects we have built across industrie
 
 `Mobile App` `IoT`
 
-<img src="images/-ddc-room-control-app/banner.jpg" alt="🏨 DDC Room Control App" width="100%">
+<img src="images/-ddc-room-control-app/banner.png" alt="🏨 DDC Room Control App" width="100%">
 
 **DDC Room Control App is a premium Flutter-based room control application designed for luxury 7-star hotels, providing guests with intuitive control over climate, lighting, entertainment, and room ambiance systems.**
 
