@@ -465,6 +465,61 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
+<img src="images/-ddc-room-control-app/logo.png" alt="🏨 DDC Room Control App logo" height="36">
+
+## 🏨 DDC Room Control App
+
+`Mobile App` `IoT`
+
+<img src="images/-ddc-room-control-app/banner.png" alt="🏨 DDC Room Control App" width="100%">
+
+**DDC Room Control App is a premium Flutter-based room control application designed for luxury 7-star hotels, providing guests with intuitive control over climate, lighting, entertainment, and room ambiance systems.**
+
+<p>Built for iPad/Android tablets, the app delivers a sophisticated user experience with real-time TCP/IP control over HVAC systems, multi-zone lighting, curtains, entertainment systems, and preset scenes for ultimate comfort and convenience.</p>
+
+### Tech Stack
+
+<p>
+  <code>Flutter 3.2.3+</code>
+  <code>GetX</code>
+  <code>TCP/IP Socket</code>
+  <code>Video Player</code>
+  <code>Secure Storage</code>
+  <code>Dart</code>
+</p>
+
+### Features
+
+- **Climate Control (HVAC)**: Precise temperature adjustment (16°C-30°C) with interactive drag-to-adjust dial, AC modes (Cool/Fan/Auto), fan speed control (Low/Medium/High), fresh air toggle, real-time visual feedback with temperature gradients, and humidity monitoring.
+- **Multi-Zone Lighting Control**: Independent control for 3 zones (Living Room, Spa, Washroom) with 0-100% brightness adjustment, smooth gradient sliders, individual power toggles, and instant optimistic UI updates with haptic feedback.
+- **Curtain/Blinds Control**: Precise 0-100% positioning, quick open/close/stop actions, multiple sections (Shades, Blackout, Bathroom), and animated visual feedback showing curtain movement.
+- **Entertainment System**: Complete TV control (power, volume 0-100, source selection for HDMI/Cast/IPTV/Apple TV, channel navigation), multi-zone audio with volume/mute per zone, and source switching (TV/Bluetooth/AUX).
+- **Scene Presets**: 6 pre-configured scenarios - Sleep (lights off, curtains closed, optimal temperature), Reading (focused lighting), Movie (dimmed lights, AV optimized), Work (bright lighting), Party (dynamic lighting, music), and Exit (energy-saving standby mode).
+- **Screensaver System**: Auto-activation after configurable idle time (default 3 minutes), full-screen looping video playback of promotional content, touch-to-dismiss functionality, and smooth fade transitions.
+- **TCP/IP Connectivity**: Reliable real-time socket communication, automatic reconnection with exponential backoff, offline command queue (up to 100 commands), 30-second heartbeat keepalive, and visual connection status monitoring.
+- **Premium UX**: Zero perceived latency with optimistic updates, tactile haptic feedback on all interactions, 60 FPS animations with elegant easing, automatic rollback on command failures, large touch targets (60x60dp), and luxury dark theme with gold accents using DDC brand fonts (Voire & Stolzl).
+
+### Screenshots
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
+  <img src="images/-ddc-room-control-app/1.png" width="160">
+  <img src="images/-ddc-room-control-app/2.png" width="160">
+  <img src="images/-ddc-room-control-app/3.png" width="160">
+  <img src="images/-ddc-room-control-app/4.png" width="160">
+  <img src="images/-ddc-room-control-app/5.png" width="160">
+  <img src="images/-ddc-room-control-app/6.png" width="160">
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
+<div align="center">
+
 <img src="images/-mindful-life--ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="36">
 
 ## 🌱 Mindful Life – AI Chatbot App
@@ -509,65 +564,6 @@ This repository contains a collection of projects we have built across industrie
 <div align="center">
 
 <img src="images/-movilar--movie--messaging-app/logo.png" alt="🎬 Movilar – Movie & Messaging App logo" height="36">
-
-</div>
-
-</div>
-
-<hr>
-
-<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
-
-<div align="center">
-
-<img src="images/-ddc-room-control-app/logo.png" alt="🏨 DDC Room Control App logo" height="36">
-
-## 🏨 DDC Room Control App
-
-`Mobile App` `IoT`
-
-<img src="images/-ddc-room-control-app/banner.png" alt="🏨 DDC Room Control App" width="100%">
-
-**DDC Room Control App is a premium Flutter-based room control application designed for luxury 7-star hotels, providing guests with intuitive control over climate, lighting, entertainment, and room ambiance systems.**
-
-<p>Built for iPad/Android tablets, the app delivers a sophisticated user experience with real-time TCP/IP control over HVAC systems, multi-zone lighting, curtains, entertainment systems, and preset scenes for ultimate comfort and convenience.</p>
-
-<p>
-  <a href="https://www.ourhabitas.com/alula/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
-</p>
-
-### Tech Stack
-
-<p>
-  <code>Flutter 3.2.3+</code>
-  <code>GetX</code>
-  <code>TCP/IP Socket</code>
-  <code>Video Player</code>
-  <code>Secure Storage</code>
-  <code>Dart</code>
-</p>
-
-### Features
-
-- **Climate Control (HVAC)**: Precise temperature adjustment (16°C-30°C) with interactive drag-to-adjust dial, AC modes (Cool/Fan/Auto), fan speed control (Low/Medium/High), fresh air toggle, real-time visual feedback with temperature gradients, and humidity monitoring.
-- **Multi-Zone Lighting Control**: Independent control for 3 zones (Living Room, Spa, Washroom) with 0-100% brightness adjustment, smooth gradient sliders, individual power toggles, and instant optimistic UI updates with haptic feedback.
-- **Curtain/Blinds Control**: Precise 0-100% positioning, quick open/close/stop actions, multiple sections (Shades, Blackout, Bathroom), and animated visual feedback showing curtain movement.
-- **Entertainment System**: Complete TV control (power, volume 0-100, source selection for HDMI/Cast/IPTV/Apple TV, channel navigation), multi-zone audio with volume/mute per zone, and source switching (TV/Bluetooth/AUX).
-- **Scene Presets**: 6 pre-configured scenarios - Sleep (lights off, curtains closed, optimal temperature), Reading (focused lighting), Movie (dimmed lights, AV optimized), Work (bright lighting), Party (dynamic lighting, music), and Exit (energy-saving standby mode).
-- **Screensaver System**: Auto-activation after configurable idle time (default 3 minutes), full-screen looping video playback of promotional content, touch-to-dismiss functionality, and smooth fade transitions.
-- **TCP/IP Connectivity**: Reliable real-time socket communication, automatic reconnection with exponential backoff, offline command queue (up to 100 commands), 30-second heartbeat keepalive, and visual connection status monitoring.
-- **Premium UX**: Zero perceived latency with optimistic updates, tactile haptic feedback on all interactions, 60 FPS animations with elegant easing, automatic rollback on command failures, large touch targets (60x60dp), and luxury dark theme with gold accents using DDC brand fonts (Voire & Stolzl).
-
-### Screenshots
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-ddc-room-control-app/(1).png" width="160">
-  <img src="images/-ddc-room-control-app/(2).png" width="160">
-  <img src="images/-ddc-room-control-app/(3).png" width="160">
-  <img src="images/-ddc-room-control-app/(4).png" width="160">
-  <img src="images/-ddc-room-control-app/(5).png" width="160">
-  <img src="images/-ddc-room-control-app/(6).png" width="160">
-</div>
 
 ## 🎬 Movilar – Movie & Messaging App
 
@@ -825,6 +821,6 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<sub>Last updated: December 03, 2025</sub>
+<sub>Last updated: January 31, 2026</sub>
 
 </div>
