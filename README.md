@@ -35,13 +35,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-green-eats--grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="36">
+<img src="images/green-eats-grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="36">
 
 ## 🥗 Green Eats – Grocery App
 
 `Mobile App` `Website`
 
-<img src="images/-green-eats--grocery-app/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
+<img src="images/green-eats-grocery-app/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
 
 **GreenEats is a comprehensive homemade food delivery application built with Flutter, providing users with healthy meal planning, subscription management, and seamless order tracking.**
 
@@ -79,12 +79,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-green-eats--grocery-app/1.jpg" width="160">
-  <img src="images/-green-eats--grocery-app/2.jpg" width="160">
-  <img src="images/-green-eats--grocery-app/3.jpg" width="160">
-  <img src="images/-green-eats--grocery-app/4.jpg" width="160">
-  <img src="images/-green-eats--grocery-app/5.jpg" width="160">
-  <img src="images/-green-eats--grocery-app/6.jpg" width="160">
+  <img src="images/green-eats-grocery-app/1.jpg" width="160">
+  <img src="images/green-eats-grocery-app/2.jpg" width="160">
+  <img src="images/green-eats-grocery-app/3.jpg" width="160">
+  <img src="images/green-eats-grocery-app/4.jpg" width="160">
+  <img src="images/green-eats-grocery-app/5.jpg" width="160">
+  <img src="images/green-eats-grocery-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -97,13 +97,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-celiach-ia--gluten-detection-app/logo.png" alt="🔍 Celiach-IA – Gluten Detection App logo" height="36">
+<img src="images/celiach-ia-gluten-detection-app/logo.png" alt="🔍 Celiach-IA – Gluten Detection App logo" height="36">
 
 ## 🔍 Celiach-IA – Gluten Detection App
 
 `Mobile App` `AI/ML`
 
-<img src="images/-celiach-ia--gluten-detection-app/banner.jpg" alt="🔍 Celiach-IA – Gluten Detection App" width="100%">
+<img src="images/celiach-ia-gluten-detection-app/banner.jpg" alt="🔍 Celiach-IA – Gluten Detection App" width="100%">
 
 **Celiach-IA is an intelligent mobile app that helps people with celiac disease identify gluten-containing products through barcode scanning and AI-powered ingredient analysis.**
 
@@ -132,12 +132,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-celiach-ia--gluten-detection-app/1.jpg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/2.jpg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/3.jpg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/4.jpg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/5.jpg" width="160">
-  <img src="images/-celiach-ia--gluten-detection-app/6.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/1.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/2.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/3.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/4.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/5.jpg" width="160">
+  <img src="images/celiach-ia-gluten-detection-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -150,13 +150,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-room-os--meeting-room-controller/logo.png" alt="🎛️ Room-OS – Meeting Room Controller logo" height="36">
+<img src="images/room-os-meeting-room-controller/logo.png" alt="🎛️ Room-OS – Meeting Room Controller logo" height="36">
 
 ## 🎛️ Room-OS – Meeting Room Controller
 
 `Mobile App` `IoT`
 
-<img src="images/-room-os--meeting-room-controller/banner.jpg" alt="🎛️ Room-OS – Meeting Room Controller" width="100%">
+<img src="images/room-os-meeting-room-controller/banner.jpg" alt="🎛️ Room-OS – Meeting Room Controller" width="100%">
 
 **Room-OS is a professional-grade Flutter application for controlling Cisco RoomOS devices across multiple meeting rooms, managing calls, screen sharing, and integrated audio/visual systems.**
 
@@ -187,12 +187,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-room-os--meeting-room-controller/1.jpg" width="160">
-  <img src="images/-room-os--meeting-room-controller/2.jpg" width="160">
-  <img src="images/-room-os--meeting-room-controller/3.jpg" width="160">
-  <img src="images/-room-os--meeting-room-controller/4.jpg" width="160">
-  <img src="images/-room-os--meeting-room-controller/5.jpg" width="160">
-  <img src="images/-room-os--meeting-room-controller/6.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/1.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/2.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/3.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/4.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/5.jpg" width="160">
+  <img src="images/room-os-meeting-room-controller/6.jpg" width="160">
 </div>
 
 </div>
@@ -205,13 +205,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-water-flow--iot-water-monitoring/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="36">
+<img src="images/water-flow-iot-monitoring-app/logo.jpg" alt="💧 Water Flow – IoT Water Monitoring logo" height="36">
 
 ## 💧 Water Flow – IoT Water Monitoring
 
 `Mobile App` `IoT`
 
-<img src="images/-water-flow--iot-water-monitoring/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
+<img src="images/water-flow-iot-monitoring-app/banner.jpg" alt="💧 Water Flow – IoT Water Monitoring" width="100%">
 
 **Water Flow Monitor is a comprehensive IoT-based water flow monitoring and leak detection system built with Flutter, Firebase, and ESP32, providing real-time monitoring, automated leak detection, and remote valve control.**
 
@@ -244,12 +244,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="160">
-  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/1.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/2.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/3.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/4.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/5.jpg" width="160">
+  <img src="images/water-flow-iot-monitoring-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -262,13 +262,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-roame--tour-planning-app/logo.png" alt="🌍 Roame – Tour Planning App logo" height="36">
+<img src="images/roame-tour-planning-app/logo.png" alt="🌍 Roame – Tour Planning App logo" height="36">
 
 ## 🌍 Roame – Tour Planning App
 
 `Mobile App`
 
-<img src="images/-roame--tour-planning-app/banner.jpg" alt="🌍 Roame – Tour Planning App" width="100%">
+<img src="images/roame-tour-planning-app/banner.jpg" alt="🌍 Roame – Tour Planning App" width="100%">
 
 **Roame is an AI-powered travel discovery and booking app.**
 
@@ -289,12 +289,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-roame--tour-planning-app/1.jpg" width="160">
-  <img src="images/-roame--tour-planning-app/2.jpg" width="160">
-  <img src="images/-roame--tour-planning-app/3.jpg" width="160">
-  <img src="images/-roame--tour-planning-app/4.jpg" width="160">
-  <img src="images/-roame--tour-planning-app/5.jpg" width="160">
-  <img src="images/-roame--tour-planning-app/6.jpg" width="160">
+  <img src="images/roame-tour-planning-app/1.jpg" width="160">
+  <img src="images/roame-tour-planning-app/2.jpg" width="160">
+  <img src="images/roame-tour-planning-app/3.jpg" width="160">
+  <img src="images/roame-tour-planning-app/4.jpg" width="160">
+  <img src="images/roame-tour-planning-app/5.jpg" width="160">
+  <img src="images/roame-tour-planning-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -307,13 +307,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-my-nust--university-app/logo.png" alt="🎓 My NUST – University App logo" height="36">
+<img src="images/my-nust-university-app/logo.png" alt="🎓 My NUST – University App logo" height="36">
 
 ## 🎓 My NUST – University App
 
 `Mobile App`
 
-<img src="images/-my-nust--university-app/banner.jpg" alt="🎓 My NUST – University App" width="100%">
+<img src="images/my-nust-university-app/banner.jpg" alt="🎓 My NUST – University App" width="100%">
 
 **My NUST is a student-focused utility app for NUST University.**
 
@@ -338,12 +338,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-my-nust--university-app/1.jpg" width="160">
-  <img src="images/-my-nust--university-app/2.jpg" width="160">
-  <img src="images/-my-nust--university-app/3.jpg" width="160">
-  <img src="images/-my-nust--university-app/4.jpg" width="160">
-  <img src="images/-my-nust--university-app/5.jpg" width="160">
-  <img src="images/-my-nust--university-app/6.jpg" width="160">
+  <img src="images/my-nust-university-app/1.jpg" width="160">
+  <img src="images/my-nust-university-app/2.jpg" width="160">
+  <img src="images/my-nust-university-app/3.jpg" width="160">
+  <img src="images/my-nust-university-app/4.jpg" width="160">
+  <img src="images/my-nust-university-app/5.jpg" width="160">
+  <img src="images/my-nust-university-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -356,13 +356,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-watanpay--international-top-ups/logo.png" alt="💸 WatanPay – International Top-Ups logo" height="36">
+<img src="images/watanpay-international-topups-app/logo.png" alt="💸 WatanPay – International Top-Ups logo" height="36">
 
 ## 💸 WatanPay – International Top-Ups
 
 `Mobile App`
 
-<img src="images/-watanpay--international-top-ups/banner.jpg" alt="💸 WatanPay – International Top-Ups" width="100%">
+<img src="images/watanpay-international-topups-app/banner.jpg" alt="💸 WatanPay – International Top-Ups" width="100%">
 
 **WatanPay is a secure mobile top-up app for sending balance to families in Afghanistan.**
 
@@ -387,12 +387,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-watanpay--international-top-ups/1.jpg" width="160">
-  <img src="images/-watanpay--international-top-ups/2.jpg" width="160">
-  <img src="images/-watanpay--international-top-ups/3.jpg" width="160">
-  <img src="images/-watanpay--international-top-ups/4.jpg" width="160">
-  <img src="images/-watanpay--international-top-ups/5.jpg" width="160">
-  <img src="images/-watanpay--international-top-ups/6.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/1.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/2.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/3.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/4.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/5.jpg" width="160">
+  <img src="images/watanpay-international-topups-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -405,13 +405,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-wdyt--opinion-sharing-app/logo.png" alt="💬 WDYT – Opinion Sharing App logo" height="36">
+<img src="images/wdyt-opinion-sharing-app/logo.png" alt="💬 WDYT – Opinion Sharing App logo" height="36">
 
 ## 💬 WDYT – Opinion Sharing App
 
 `Mobile App`
 
-<img src="images/-wdyt--opinion-sharing-app/banner.jpg" alt="💬 WDYT – Opinion Sharing App" width="100%">
+<img src="images/wdyt-opinion-sharing-app/banner.jpg" alt="💬 WDYT – Opinion Sharing App" width="100%">
 
 **WDYT (What Do You Think?) is a social opinion-sharing platform that gamifies conversations through emoji battles.**
 
@@ -435,12 +435,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-wdyt--opinion-sharing-app/1.jpg" width="160">
-  <img src="images/-wdyt--opinion-sharing-app/2.jpg" width="160">
-  <img src="images/-wdyt--opinion-sharing-app/3.jpg" width="160">
-  <img src="images/-wdyt--opinion-sharing-app/4.jpg" width="160">
-  <img src="images/-wdyt--opinion-sharing-app/5.jpg" width="160">
-  <img src="images/-wdyt--opinion-sharing-app/6.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/1.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/2.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/3.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/4.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/5.jpg" width="160">
+  <img src="images/wdyt-opinion-sharing-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -453,13 +453,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-ddc-room-control-app/logo.png" alt="🏨 DDC Room Control App logo" height="36">
+<img src="images/ddc-room-control-app/logo.png" alt="🏨 DDC Room Control App logo" height="36">
 
 ## 🏨 DDC Room Control App
 
 `Mobile App` `IoT`
 
-<img src="images/-ddc-room-control-app/banner.png" alt="🏨 DDC Room Control App" width="100%">
+<img src="images/ddc-room-control-app/banner.png" alt="🏨 DDC Room Control App" width="100%">
 
 **DDC Room Control App is a premium Flutter-based room control application designed for luxury 7-star hotels, providing guests with intuitive control over climate, lighting, entertainment, and room ambiance systems.**
 
@@ -490,12 +490,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-ddc-room-control-app/1.png" width="160">
-  <img src="images/-ddc-room-control-app/2.png" width="160">
-  <img src="images/-ddc-room-control-app/3.png" width="160">
-  <img src="images/-ddc-room-control-app/4.png" width="160">
-  <img src="images/-ddc-room-control-app/5.png" width="160">
-  <img src="images/-ddc-room-control-app/6.png" width="160">
+  <img src="images/ddc-room-control-app/1.png" width="160">
+  <img src="images/ddc-room-control-app/2.png" width="160">
+  <img src="images/ddc-room-control-app/3.png" width="160">
+  <img src="images/ddc-room-control-app/4.png" width="160">
+  <img src="images/ddc-room-control-app/5.png" width="160">
+  <img src="images/ddc-room-control-app/6.png" width="160">
 </div>
 
 </div>
@@ -508,13 +508,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-mindful-life--ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="36">
+<img src="images/mindful-life-ai-chatbot-app/logo.png" alt="🌱 Mindful Life – AI Chatbot App logo" height="36">
 
 ## 🌱 Mindful Life – AI Chatbot App
 
 `Mobile App` `AI/ML`
 
-<img src="images/-mindful-life--ai-chatbot-app/banner.jpg" alt="🌱 Mindful Life – AI Chatbot App" width="100%">
+<img src="images/mindful-life-ai-chatbot-app/banner.jpg" alt="🌱 Mindful Life – AI Chatbot App" width="100%">
 
 **Mindful Life is an AI well-being assistant that guides users toward healthier habits. It uses gamification (growable tree persona) and AI doctors for personalized health advice.**
 
@@ -533,12 +533,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="160">
-  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="160">
-  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="160">
-  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="160">
-  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="160">
-  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/1.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/2.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/3.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/4.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/5.jpg" width="160">
+  <img src="images/mindful-life-ai-chatbot-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -551,13 +551,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-movilar--movie--messaging-app/logo.png" alt="🎬 Movilar – Movie & Messaging App logo" height="36">
+<img src="images/movilar-movie-messaging-app/logo.png" alt="🎬 Movilar – Movie & Messaging App logo" height="36">
 
 ## 🎬 Movilar – Movie & Messaging App
 
 `Mobile App`
 
-<img src="images/-movilar--movie--messaging-app/banner.jpg" alt="🎬 Movilar – Movie & Messaging App" width="100%">
+<img src="images/movilar-movie-messaging-app/banner.jpg" alt="🎬 Movilar – Movie & Messaging App" width="100%">
 
 **Movilar is a movie discovery and messaging platform. It supports offline browsing and real-time communication between users.**
 
@@ -576,12 +576,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-movilar--movie--messaging-app/1.jpg" width="160">
-  <img src="images/-movilar--movie--messaging-app/2.jpg" width="160">
-  <img src="images/-movilar--movie--messaging-app/3.jpg" width="160">
-  <img src="images/-movilar--movie--messaging-app/4.jpg" width="160">
-  <img src="images/-movilar--movie--messaging-app/5.jpg" width="160">
-  <img src="images/-movilar--movie--messaging-app/6.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/1.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/2.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/3.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/4.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/5.jpg" width="160">
+  <img src="images/movilar-movie-messaging-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -594,13 +594,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-your-bridge-school--learning-app/logo.png" alt="📚 Your Bridge School – Learning App logo" height="36">
+<img src="images/your-bridge-school-learning-app/logo.png" alt="📚 Your Bridge School – Learning App logo" height="36">
 
 ## 📚 Your Bridge School – Learning App
 
 `Mobile App`
 
-<img src="images/-your-bridge-school--learning-app/banner.jpg" alt="📚 Your Bridge School – Learning App" width="100%">
+<img src="images/your-bridge-school-learning-app/banner.jpg" alt="📚 Your Bridge School – Learning App" width="100%">
 
 **Your Bridge School (YBS) is a custom learning app for students. It offers structured lessons, units, and audio-based learning, with admin-controlled content management.**
 
@@ -624,12 +624,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-your-bridge-school--learning-app/1.jpg" width="160">
-  <img src="images/-your-bridge-school--learning-app/2.jpg" width="160">
-  <img src="images/-your-bridge-school--learning-app/3.jpg" width="160">
-  <img src="images/-your-bridge-school--learning-app/4.jpg" width="160">
-  <img src="images/-your-bridge-school--learning-app/5.jpg" width="160">
-  <img src="images/-your-bridge-school--learning-app/6.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/1.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/2.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/3.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/4.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/5.jpg" width="160">
+  <img src="images/your-bridge-school-learning-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -642,13 +642,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-battlegrands--tournaments-app/logo.png" alt="🎮 Battlegrands – Tournaments App logo" height="36">
+<img src="images/battlegrands-tournament-app/logo.png" alt="🎮 Battlegrands – Tournaments App logo" height="36">
 
 ## 🎮 Battlegrands – Tournaments App
 
 `Mobile App`
 
-<img src="images/-battlegrands--tournaments-app/banner.jpg" alt="🎮 Battlegrands – Tournaments App" width="100%">
+<img src="images/battlegrands-tournament-app/banner.jpg" alt="🎮 Battlegrands – Tournaments App" width="100%">
 
 **Battlegrands is a competitive gaming platform where users can join or host tournaments and challenges.**
 
@@ -667,12 +667,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-battlegrands--tournaments-app/1.jpg" width="160">
-  <img src="images/-battlegrands--tournaments-app/2.jpg" width="160">
-  <img src="images/-battlegrands--tournaments-app/3.jpg" width="160">
-  <img src="images/-battlegrands--tournaments-app/4.jpg" width="160">
-  <img src="images/-battlegrands--tournaments-app/5.jpg" width="160">
-  <img src="images/-battlegrands--tournaments-app/6.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/1.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/2.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/3.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/4.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/5.jpg" width="160">
+  <img src="images/battlegrands-tournament-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -710,12 +710,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="160">
-  <img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="160">
-  <img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="160">
-  <img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="160">
-  <img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="160">
-  <img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/1.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/2.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/3.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/4.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/5.jpg" width="160">
+  <img src="images/ez-build-marketplace-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -728,7 +728,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-dog-alert--smart-pet-tracking/logo.png" alt="🐶 Dog Alert – Smart Pet Tracking logo" height="36">
+<img src="images/dog-alert-smart-pet-tracking-app/logo.png" alt="🐶 Dog Alert – Smart Pet Tracking logo" height="36">
 
 ## 🐶 Dog Alert – Smart Pet Tracking
 
@@ -752,12 +752,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="160">
-  <img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="160">
-  <img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="160">
-  <img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="160">
-  <img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="160">
-  <img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/1.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/2.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/3.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/4.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/5.jpg" width="160">
+  <img src="images/dog-alert-smart-pet-tracking-app/6.jpg" width="160">
 </div>
 
 </div>
@@ -770,7 +770,7 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/-sleep--sound-therapy-app/logo.png" alt="🌙 Sleep – Sound Therapy App logo" height="36">
+<img src="images/sleep-sound-therapy-app/logo.png" alt="🌙 Sleep – Sound Therapy App logo" height="36">
 
 ## 🌙 Sleep – Sound Therapy App
 
@@ -793,12 +793,12 @@ This repository contains a collection of projects we have built across industrie
 ### Screenshots
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;justify-content:center;max-width:calc(3*160px + 2*12px);margin:0 auto;">
-  <img src="images/-sleep--sound-therapy-app/1.jpg" width="160">
-  <img src="images/-sleep--sound-therapy-app/2.jpg" width="160">
-  <img src="images/-sleep--sound-therapy-app/3.jpg" width="160">
-  <img src="images/-sleep--sound-therapy-app/4.jpg" width="160">
-  <img src="images/-sleep--sound-therapy-app/5.jpg" width="160">
-  <img src="images/-sleep--sound-therapy-app/6.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/1.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/2.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/3.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/4.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/5.jpg" width="160">
+  <img src="images/sleep-sound-therapy-app/6.jpg" width="160">
 </div>
 
 </div>
